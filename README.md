@@ -56,6 +56,15 @@
   - [4.4 Model Monitoring](#44-model-monitoring)
   - [4.5 Docker basics](#45-docker-basics)
   - [4.6 Additional resources](#46-additional-resources)
+- [5. Industrial AI Topics](#5-industrial-ai-topics)
+  - [5.1 Signal processing](#51-signal-processing)
+  - [5.2 Data-driven / Hybrid Process Modeling](#52-data-driven--hybrid-process-modeling)
+    - [Process dynamics and control with video lectures](#process-dynamics-and-control-with-video-lectures)
+    - [Hybrid modeling review](#hybrid-modeling-review)
+    - [Data-driven modeling of dynamical systems](#data-driven-modeling-of-dynamical-systems)
+    - [Physics-Informed Machine Learning](#physics-informed-machine-learning)
+  - [5.3 Process Control and MPC](#53-process-control-and-mpc)
+  - [5.4 Anomaly Detection](#54-anomaly-detection)
 ---
 
 ## Motivation
@@ -288,4 +297,43 @@ Life is too short, learn Python. Forget R or S or T or whatever other programmin
 
 ---
 
-💡 **Next Steps?** Keep learning! 📖 This roadmap continues with ML Foundations, MLOps, and Industrial AI! 🚀
+---
+
+## 5. Industrial AI Topics
+### 5.1 Signal Processing
+- 🎓 [Signal Processing Course - Mike Cohen (Paid)](https://www.udemy.com/course/signal-processing/?couponCode=2021PM20)
+- 📖 [Fourier Transform & Filters](https://en.wikipedia.org/wiki/Fourier_transform)
+
+---
+
+### 5.2 Data-driven / Hybrid Process Modeling
+#### Process Dynamics and Control with Video Lectures
+- 🎥 [Process Dynamics and Control - Mun.ca](https://www.mun.ca/engineering/crise/about-us/our-people/process-dynamics-and-control/)
+
+#### Hybrid Modeling Review
+- 📖 [Hybrid Modeling Review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2772508123000546)
+- 📖 [Hybrid Modeling Research - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0306261918309218)
+
+#### Data-driven Modeling of Dynamical Systems
+- 🎥 [Steve Brunton’s Course on Dynamical Systems](https://www.youtube.com/watch?v=Kap3TZwAsv0&list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt)
+
+#### Physics-Informed Machine Learning
+- 🎥 [Brunton's Course on Physics-Informed ML](https://www.youtube.com/watch?v=JoFW2uSd3Uo&list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa)
+- 🛠️ [PySINDy Library](https://pysindy.readthedocs.io/en/latest/examples/2_introduction_to_sindy/example.html)
+
+---
+
+### 5.3 Process Control and MPC
+- 🎓 [Process Control with Python - Hedengren](https://apmonitor.com/pdc/index.php/Main/CourseSchedule)
+- 📖 [Practical Process Control - Opticontrols](https://blog.opticontrols.com/)
+- 🎥 [MPC and MHE with Casadi](https://www.youtube.com/watch?v=RrnkPrcpyEA&list=PLK8squHT_Uzej3UCUHjtOtm5X7pMFSgAL)
+- 🛠️ [HILO-MPC Library](https://github.com/hilo-mpc/hilo-mpc)
+- 🛠️ [do-mpc Library](https://www.do-mpc.com/en/latest/)
+
+---
+
+### 5.4 Anomaly Detection
+- 📖 [Anomaly Detection Methods Review - ACM](https://dl.acm.org/doi/abs/10.1145/1541880.1541882)
+- 📖 [Anomaly Detection with Python - Neptune AI](https://neptune.ai/blog/anomaly-detection-in-time-series)
+- 📖 [Deep Learning Anomaly Detection](https://arxiv.org/pdf/2211.05244)
+- 🛠️ [Time Series Anomaly Detection Libraries](https://github.com/rob-med/awesome-TS-anomaly-detection)
