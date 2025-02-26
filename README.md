@@ -318,14 +318,12 @@ SciPy provides built-in **optimization algorithms** widely used in ML and scient
 - 📚 [SciPy Optimization Tutorial](https://jiffyclub.github.io/scipy/tutorial/optimize.html#)
 - 📚 [Optimization in Python - Duke University](https://people.duke.edu/~ccc14/sta-663-2017/14C_Optimization_In_Python.html)
 
-#### Interactive Playground of Several Optimization Methods
+#### Interactive Playground of Several Optimization Methods (works well for understanding)
 🎮 [Optimization Playground - Ben Frederickson](https://www.benfrederickson.com/numerical-optimization/)  
-  **Experiment with different optimization algorithms interactively.**
 
 #### Additional Resources
 - 📚 [Numerical Optimization Book - Jorge Nocedal](https://www.amazon.ca/Numerical-Optimization-Jorge-Nocedal/dp/0387303030)
 - 📚 [Awesome Optimization Resources](https://github.com/ebrahimpichka/awesome-optimization)  
-  **Extensive list of optimization techniques & applications.**
 
 ---
 
