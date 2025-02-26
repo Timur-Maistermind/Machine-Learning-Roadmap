@@ -2,7 +2,7 @@
 ![Machine Learning Roadmap](images/Machine_Learning_Roadmap.png)
 
 <p align="center">
-  <a href="[https://your-link.com](https://themaistermind.substack.com/)">
+  <a href="[https://themaistermind.substack.com/]">
     <img src="images/Machine_Learning_Roadmap_Newsletter.png" alt="Machine Learning Roadmap" width="300"/>
   </a>
 </p>
