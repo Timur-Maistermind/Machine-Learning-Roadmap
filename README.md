@@ -1,12 +1,6 @@
 # Machine Learning Roadmap 2025
 ![Machine Learning Roadmap](images/Machine_Learning_Roadmap.png)
 
-<p align="center">
-  <a href="[https://themaistermind.substack.com/]">
-    <img src="images/Machine_Learning_Roadmap_Newsletter.png" alt="Machine Learning Roadmap" width="300"/>
-  </a>
-</p>
-
 # 🚀 Goal of the Roadmap
 The goal of the roadmap is to provide a list of resources that are enough to become a **Middle Data Scientist starting from ZERO**.
 - ✅ Each topic has links to free courses, YouTube videos, articles, or book chapters.
