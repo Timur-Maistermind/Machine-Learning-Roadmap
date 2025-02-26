@@ -1,6 +1,9 @@
 # Machine Learning Roadmap 2025
 ![Machine Learning Roadmap](images/Machine_Learning_Roadmap.png)
 
+[![Subscribe](https://img.shields.io/badge/Subscribe-007BFF?style=for-the-badge&logoColor=white)](https://your-subscription-link.com)
+
+
 [![Subscribe](https://img.shields.io/badge/Subscribe-007BFF?style=for-the-badge&logo=github)](https://themaistermind.substack.com/)
 
 
