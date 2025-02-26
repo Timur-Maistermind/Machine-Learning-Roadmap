@@ -2,6 +2,7 @@
 
 ## 🚀 Goal of the Roadmap
 The goal of the roadmap is to provide a list of resources that are enough to be a **Middle Data Scientist starting from ZERO**. Some parts will be useful even for Senior/Lead DS.
+Most of the resources were personally tested by me, a Data Scientist with 8 years of experience, leading 4 DS teams
 
 ## 🎯 Who is this roadmap for?
 - ✅ Data Science beginners who are looking for a practical step-by-step guide.
