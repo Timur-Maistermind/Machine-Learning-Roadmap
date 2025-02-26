@@ -103,7 +103,11 @@
 
 ## 1. Python
 ### 1.1 Introduction
+Python is the most widely used programming language in Data Science. It’s powerful, easy to learn, and has a vast ecosystem of libraries for data analysis, visualization, and machine learning.
+
 Life is too short, learn Python. Forget R or S or T or whatever other programming language letters you see. And for God’s sake, no Matlab in your life should exist.
+
+💡 **Your goal?** Get comfortable with Python basics and then dive into data manipulation and visualization—essential skills for any Data Scientist!
 
 🔹 **Paid Courses:**
 - 🎓 [Basic Python - CodeAcademy](https://www.codecademy.com/learn/learn-python-3)
@@ -117,6 +121,8 @@ Life is too short, learn Python. Forget R or S or T or whatever other programmin
 ---
 
 ### 1.2 Data Manipulation
+Data manipulation is the **core skill** for a Data Scientist. You’ll need to clean, transform, and analyze data efficiently using **Pandas and NumPy**.
+
 - 📊 [Kaggle Pandas Course](https://www.kaggle.com/learn/pandas)
 - 📚 [MLCourse.ai - Data Manipulation](https://mlcourse.ai/book/topic01/topic01_intro.html)
 - 🔢 [Numpy Basics](https://github.com/ageron/handson-ml2/blob/master/tools_numpy.ipynb)
@@ -125,6 +131,10 @@ Life is too short, learn Python. Forget R or S or T or whatever other programmin
 ---
 
 ### 1.3 Data Visualization
+Data visualization helps **communicate insights** effectively. Learning how to use Matplotlib, Seaborn, and Plotly will allow you to create compelling charts and dashboards.
+
+💡 **Your goal?** Understand different types of plots and when to use them.
+
 #### Intro
 - 📊 [MLCourse.ai - Data Visualization](https://mlcourse.ai/book/topic02/topic02_intro.html)
 
@@ -136,6 +146,7 @@ Life is too short, learn Python. Forget R or S or T or whatever other programmin
 ---
 
 ### 1.4 Selected Practical Topics
+Once you’re comfortable with Python, these **practical topics** will help you **write cleaner, more efficient code** and work effectively in real projects.
 #### Topic 1: Python environments and how to set it up with Conda
 - 🔗 [Guide to Conda Environments](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)
 
