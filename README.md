@@ -266,52 +266,87 @@ Unsupervised learning helps **discover hidden structures** in data when labels a
 
 ---
 
+---
+
 ## 3. Data Science / ML Deep Dive
+
+This section is where you refine your skills, learn about advanced techniques, and dive into critical ML concepts that help improve model performance and interpretability. Mastering these topics will significantly enhance your ability to build, deploy, and optimize ML models.
+
+---
+
 ### 3.1 Selected Practical Topics
-#### Feature selection
-- 📖 [Comprehensive Guide on Feature Selection - Kaggle](https://www.kaggle.com/code/prashant111/comprehensive-guide-on-feature-selection/notebook#Table-of-Contents)
 
-#### Feature importance
-- 📖 [Interpretable ML Book - Linear Models](https://christophm.github.io/interpretable-ml-book/limo.html)
-- 📖 [Interpretable ML Book - Logistic Models](https://christophm.github.io/interpretable-ml-book/logistic.html)
+#### Feature Selection
+Feature selection is **crucial** for building efficient and interpretable models. It helps **reduce overfitting**, improve generalization, and enhance interpretability.
+
+- 📚 [Comprehensive Guide on Feature Selection - Kaggle](https://www.kaggle.com/code/prashant111/comprehensive-guide-on-feature-selection/notebook#Table-of-Contents)  
+  A **detailed guide** on different feature selection methods.
+
+#### Feature Importance
+Knowing which features influence your model's predictions is essential for interpretability and trust.
+
+- 📚 [Interpretable ML Book - Linear Models](https://christophm.github.io/interpretable-ml-book/limo.html)
+- 📚 [Interpretable ML Book - Logistic Models](https://christophm.github.io/interpretable-ml-book/logistic.html)
 - 🎥 [Tree-based Feature Importance - Sebastian Raschka](https://www.youtube.com/watch?v=ycyCtxZ0a9w)
-- 📖 [Permutation Feature Importance - Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/feature-importance.html)
-- 🛠️ [SHAP Library Documentation](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
+- 📚 [Permutation Feature Importance - Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/feature-importance.html)
+- 🛠️ [SHAP Library Documentation](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)  
+  **SHAP (Shapley Additive Explanations)** is a powerful method to interpret ML models.
 
-#### Model metrics evaluation
-- 📖 [Regression Metrics - H2O Blog](https://h2o.ai/blog/2019/regression-metrics-guide/)
-- 📖 [Classification Metrics - Evidently AI](https://www.evidentlyai.com/classification-metrics)
+#### Model Metrics Evaluation
+You built a model, but how do you **measure its performance**? Understanding metrics is essential for making informed decisions.
+
+- 📚 [Regression Metrics - H2O Blog](https://h2o.ai/blog/2019/regression-metrics-guide/)
+- 📚 [Classification Metrics - Evidently AI](https://www.evidentlyai.com/classification-metrics)
 
 #### Cross-validation
-- 📖 [Cross-validation Guide - Neptune AI](https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right)
+Cross-validation is **essential** to prevent overfitting and estimate model performance accurately.
+
+- 📚 [Cross-validation Guide - Neptune AI](https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right)
 
 ---
 
 ### 3.2 Neural Networks Introduction
-- 🎓 [Deep Learning Specialization - Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+
+Neural Networks are **one of the most powerful tools** in ML, and they form the backbone of **Deep Learning**.
+
+💡 **Your goal?** Understand the basic architecture of neural networks, backpropagation, and common deep learning techniques.
+
+- 🎓 [Deep Learning Specialization - Andrew Ng](https://www.coursera.org/specializations/deep-learning)  
+  A **structured, step-by-step** guide to deep learning concepts.
 
 ---
 
 ### 3.3 Optimization with Python
-#### Introduction to mathematical optimization with Python
-- 📖 [Numerical Optimization - Indrag49](https://indrag49.github.io/Numerical-Optimization/)
+Optimization plays a crucial role in tuning ML models, solving complex problems, and improving performance.
+
+#### Introduction to Mathematical Optimization with Python
+- 📚 [Numerical Optimization - Indrag49](https://indrag49.github.io/Numerical-Optimization/)  
+  **Covers numerical optimization with clear Python examples.**
 
 #### Bayesian Optimization
-- 🎮 [Bayesian Optimization Playground - Distill.pub](https://distill.pub/2020/bayesian-optimization/)
-- 📖 [Bayesian Optimization Theory - Nando de Freitas](http://haikufactory.com/files/bayopt.pdf)
+Bayesian optimization helps **optimize black-box functions**, often used for **hyperparameter tuning**.
+
+- 🎮 [Bayesian Optimization Playground - Distill.pub](https://distill.pub/2020/bayesian-optimization/)  
+  **Interactive visual explanations!**
+- 📚 [Bayesian Optimization Theory - Nando de Freitas](http://haikufactory.com/files/bayopt.pdf)  
+  **Deep dive into Bayesian optimization techniques.**
 
 #### Optimization with SciPy
-- 📖 [SciPy Optimization Overview](https://caam37830.github.io/book/03_optimization/scipy_opt.html)
-- 📖 [Optimization Constraints with SciPy - Towards Data Science](https://towardsdatascience.com/introduction-to-optimization-constraints-with-scipy-7abd44f6de25)
-- 📖 [SciPy Optimization Tutorial](https://jiffyclub.github.io/scipy/tutorial/optimize.html#)
-- 📖 [Optimization in Python - Duke University](https://people.duke.edu/~ccc14/sta-663-2017/14C_Optimization_In_Python.html)
+SciPy provides built-in **optimization algorithms** widely used in ML and scientific computing.
 
-#### Interactive playground of several optimization methods
-- 🎮 [Optimization Playground - Ben Frederickson](https://www.benfrederickson.com/numerical-optimization/)
+- 📚 [SciPy Optimization Overview](https://caam37830.github.io/book/03_optimization/scipy_opt.html)
+- 📚 [Optimization Constraints with SciPy - Towards Data Science](https://towardsdatascience.com/introduction-to-optimization-constraints-with-scipy-7abd44f6de25)
+- 📚 [SciPy Optimization Tutorial](https://jiffyclub.github.io/scipy/tutorial/optimize.html#)
+- 📚 [Optimization in Python - Duke University](https://people.duke.edu/~ccc14/sta-663-2017/14C_Optimization_In_Python.html)
 
-#### Additional resources
-- 📖 [Numerical Optimization Book - Jorge Nocedal](https://www.amazon.ca/Numerical-Optimization-Jorge-Nocedal/dp/0387303030)
-- 📚 [Awesome Optimization Resources](https://github.com/ebrahimpichka/awesome-optimization)
+#### Interactive Playground of Several Optimization Methods
+🎮 [Optimization Playground - Ben Frederickson](https://www.benfrederickson.com/numerical-optimization/)  
+  **Experiment with different optimization algorithms interactively.**
+
+#### Additional Resources
+- 📚 [Numerical Optimization Book - Jorge Nocedal](https://www.amazon.ca/Numerical-Optimization-Jorge-Nocedal/dp/0387303030)
+- 📚 [Awesome Optimization Resources](https://github.com/ebrahimpichka/awesome-optimization)  
+  **Extensive list of optimization techniques & applications.**
 
 ---
 
