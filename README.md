@@ -1,4 +1,5 @@
-# Machine Learning Roadmap. Step-by-Step Guide to become a Data Scientist.
+# Machine Learning Roadmap
+# Step-by-Step Guide to become a Data Scientist.
 
 The goal of the roadmap is to provide a list of resources that are enough to be a **Middle Data Scientist starting from ZERO**. Some parts will be useful even for Senior/Lead DS.
 
