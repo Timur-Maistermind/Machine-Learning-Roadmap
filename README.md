@@ -59,17 +59,14 @@
   - 🎮 [Interactive Optimization Playground](#interactive-playground-of-several-optimization-methods)  
   - 📚 [Additional Resources](#additional-resources)  
 
----
-
 ## ⚙️ 4. MLOps for Data Scientists  
 - 🏗️ [4.1 Introduction](#41-introduction)  
 - 📦 [4.2 Model Registry & Experiment Tracking](#42-model-registry-and-experiment-tracking)  
 - 🔄 [4.3 ML Pipelines](#43-ml-pipelines)  
 - 🛠️ [4.4 Model Monitoring](#44-model-monitoring)  
 - 🐳 [4.5 Docker Basics](#45-docker-basics)  
-- 📚 [4.6 Additional Resources](#46-additional-resources)  
-
----
+- 📚 [4.6 Additional Resources](#46-additional-resources)
+- 
 
 ## 🏭 5. Industrial AI Topics  
 - 🎛️ [5.1 Signal Processing](#51-signal-processing)  
