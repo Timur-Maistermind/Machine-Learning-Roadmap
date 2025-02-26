@@ -1,93 +1,94 @@
-# 📌 Data Science & Machine Learning Roadmap (2024)
+# 🚀 Step-by-step roadmap to becoming a Data Scientist
 
-🚀 A **step-by-step roadmap** to becoming a **Data Scientist & ML Engineer** in 2024. Covers **Python, Machine Learning, Deep Learning, MLOps, and Industrial AI topics** with curated resources, practical projects, and hands-on tutorials.
-
-📥 **Want to keep this roadmap for later?** Download the **full 25-page PDF** [here](#).
+## ✨ by Timur Bikmukhametov
 
 ---
 
-## 📌 Table of Contents
-- [Motivation](#motivation)
-- [The Goal of This Roadmap](#the-goal-of-this-roadmap)
-- [Python](#python)
-  - [Introduction](#introduction)
-  - [Data Manipulation](#data-manipulation)
-  - [Data Visualization](#data-visualization)
-  - [Selected Practical Topics](#selected-practical-topics)
-- [Data Science / ML Introduction](#data-science--ml-introduction)
-- [Deep Dive into ML](#deep-dive-into-ml)
-- [MLOps for Data Scientists](#mlops-for-data-scientists)
-- [Industrial AI Topics](#industrial-ai-topics)
-- [Additional Resources](#additional-resources)
+# 📌 Table of Contents
+1. [🎯 Motivation](#motivation)
+2. [🎯 The goal of the roadmap](#the-goal-of-the-roadmap)
+3. [⚠️ READ THIS BEFORE YOU START](#read-this-before-you-start)
+4. [⚠️ Disclaimers](#disclaimers)
+5. [🛤️ Roadmap Overview](#roadmap-overview)
+6. [🐍 Python](#python)
+    - [🚀 Introduction](#introduction)
+    - [📊 Data manipulation](#data-manipulation)
+    - [📈 Data visualization](#data-visualization)
+    - [💡 Selected Practical Topics](#selected-practical-topics)
+7. [🧠 Data Science / ML Introduction](#data-science--ml-introduction)
+    - [🔰 Introduction](#introduction-1)
+    - [📚 Basic probability, statistics, and linear algebra](#basic-probability-statistics-and-linear-algebra)
+    - [🤖 Supervised learning](#supervised-learning)
+    - [🔍 Unsupervised learning](#unsupervised-learning)
+8. [🔎 Data Science / ML Deep Dive](#data-science--ml-deep-dive)
+9. [⚙️ MLOps for Data Scientists](#mlops-for-data-scientist)
+10. [🏭 Industrial AI Topics](#industrial-ai-topics)
 
 ---
 
 ## 🎯 Motivation
-Machine Learning is a vast and evolving field, making it overwhelming for beginners. This roadmap **structures your learning path** by covering fundamental and advanced topics step by step. 
+💡 Learning Data Science is both exciting and overwhelming. Years ago, there were limited resources; today, there's an ocean of materials. Where should you start? 🤔
+
+🌍 Many aspire to solve real-world problems using AI in industrial sectors. Unfortunately, most learning materials don't focus on practical industry applications.
+
+## 🎯 The Goal of the Roadmap
+✔️ This roadmap is your **step-by-step guide** to becoming a solid **Junior+/Middle Data Scientist** from scratch! 🚀
+
+### 🎯 Who is this roadmap for?
+✅ Beginners looking for a structured learning path 📚
+✅ Data Scientists preparing for job changes or promotions 💼
+✅ Engineers transitioning into Data Science 🛠️
+✅ Those interested in **Industrial AI** 🏭
+
+## ⚠️ READ THIS BEFORE YOU START
+❗ **You will never feel completely "ready."** There's always more to learn in Python, Machine Learning, and Optimization. This roadmap will help you **build strong fundamentals** 💪
+
+✔️ **If you're a beginner**: Start with Python + ML Basics and build a small project 💻
+✔️ **If you have experience**: Pick topics where you need improvement 🔍
+
+## ⚠️ Disclaimers
+⚠️ No affiliations with recommended courses—these are **handpicked based on experience** 🔍
+💰 Many resources are free, but some paid options provide better structure 🏆
+💡 Coursera offers **financial aid**—I used it as a student! 🎓
 
 ---
 
-## 🏆 The Goal of This Roadmap
-✅ **Guide beginners** through a structured ML learning path  
-✅ **Help intermediate Data Scientists** level up with advanced topics  
-✅ **Provide industry-relevant skills** including **MLOps & Industrial AI**  
-✅ **Recommend high-quality resources** with hands-on projects  
+## 🛤️ Roadmap Overview
+📌 **Learning is a journey, not a sprint!**
+✅ Start with **Python + ML Basics** ➡️ Build a project ➡️ Progress to **Advanced Topics & MLOps**
+✅ If aiming for **Industrial AI**, complete the core ML topics first.
 
 ---
 
-## 🔹 Python
-### 🔥 Introduction
-Life is too short, learn Python. Forget R or other programming languages. Python dominates ML and Data Science.
+## 🐍 Python
+### 🚀 1.1 Introduction
+🎓 **Paid:**
+- 🔗 [Basic Python - CodeAcademy](https://www.codecademy.com/learn/learn-python-3)
+- 🔗 [Python Programming - DataCamp](https://app.datacamp.com/learn/skill-tracks/python-programming)
 
-### **Step 1: Python Basics**
-- **[Basic Python from CodeAcademy](https://www.codecademy.com/learn/learn-python-3)**  
-- **[Python Programming Skill Track from DataCamp](https://app.datacamp.com/learn/skill-tracks/python-programming)**  
-- **[Futurecoder.io Free Python Course](https://futurecoder.io/)**  
-- **[Python Course by Dave Gray (YouTube)](https://www.youtube.com/watch?v=qwAFL1597eM)**  
+🎓 **Free:**
+- 🔗 [FutureCoder.io (Hands-on)](https://futurecoder.io/)
+- 🔗 [Dave Gray's Python Course](https://www.youtube.com/watch?v=qwAFL1597eM)
+- 🔗 [Mini-projects - freeCodeCamp](https://www.youtube.com/watch?v=8ext9G7xspg)
 
-### **Step 2: Data Manipulation**
-- **[Kaggle Pandas Course](https://www.kaggle.com/learn/pandas)**  
-- **[Data Manipulation from mlcourse.ai](https://mlcourse.ai/book/topic01/topic01_intro.html)**  
-- **[NumPy Hands-On Guide](https://github.com/ageron/handson-ml2/blob/master/tools_numpy.ipynb)**  
-- **[Pandas Exercises by Guilherme Samora](https://github.com/guipsamora/pandas_exercises)**  
+### 📊 1.2 Data Manipulation
+- 🔗 [Kaggle Pandas Course](https://www.kaggle.com/learn/pandas)
+- 🔗 [MLCourse.ai - Data Manipulation](https://mlcourse.ai/book/topic01/topic01_intro.html)
+- 🔗 [Numpy Basics](https://github.com/ageron/handson-ml2/blob/master/tools_numpy.ipynb)
+- 🔗 [Pandas Exercises](https://github.com/guipsamora/pandas_exercises)
 
-### **Step 3: Data Visualization**
-- **[Data Visualization from mlcourse.ai](https://mlcourse.ai/book/topic02/topic02_intro.html)**  
-- **[Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)**  
-- **[Seaborn Example Gallery](https://seaborn.pydata.org/examples/index.html)**  
-- **[Plotly Interactive Visualization](https://plotly.com/python/)**  
+### 📈 1.3 Data Visualization
+- 🔗 [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
+- 🔗 [Seaborn Examples](https://seaborn.pydata.org/examples/index.html)
+- 🔗 [Plotly Interactive Plots](https://plotly.com/python/)
 
-### **Step 4: Selected Practical Topics**
-- **[Python Environments with Conda](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)**  
-- **[Python Methods Explanation](https://realpython.com/instance-class-and-static-methods-demystified/)**  
-- **[Python Clean Code Tips](https://github.com/zedr/clean-code-python)**  
-- **[Python Code Formatting with Black](https://www.python-engineer.com/posts/black-code-formatter/)**  
-
----
-
-## 🔹 Data Science / ML Introduction
-### 🤖 Core ML Topics:
-- **[Supervised Learning](https://scikit-learn.org/stable/supervised_learning.html):** [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html), [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html), [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html), [Gradient Boosting](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)  
-- **[Unsupervised Learning](https://scikit-learn.org/stable/unsupervised_learning.html):** [Clustering](https://scikit-learn.org/stable/modules/clustering.html), [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html), [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)  
-- **[ML Model Evaluation Metrics](https://scikit-learn.org/stable/modules/model_evaluation.html):** [Precision](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html), [Recall](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html), [AUC-ROC](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html)  
-
-📚 **Best ML Courses:**
-- **[Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)**  
-- **[Hands-On ML with Scikit-Learn & TensorFlow (Book)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)**  
+### 💡 1.4 Selected Practical Topics
+🔹 [Python Environments & Conda](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)
+🔹 [Demystifying Python Methods](https://realpython.com/instance-class-and-static-methods-demystified/)
+🔹 [Python Clean Code Tips](https://github.com/zedr/clean-code-python)
+🔹 [Understanding Python Imports](https://realpython.com/python-import/)
+🔹 [Python Decorators Guide](https://realpython.com/primer-on-python-decorators/)
 
 ---
 
-## 🔹 Additional Resources
-📖 **Best Books:**
-- "Pattern Recognition and Machine Learning" – Christopher Bishop  
-- "Interpretable Machine Learning" – Christoph Molnar  
-
-💡 **Stay Updated:**
-- Follow **AI Research on Twitter & PapersWithCode**  
-- Subscribe to **The Batch (DeepLearning.AI Newsletter)**  
-
-📥 **Want the full roadmap with extra learning paths?** [Download it now](#)  
-📂 **Explore ML Code & Projects:** [GitHub Repo](#)  
-📖 **Read More ML Guides:** [Visit My Blog](#)  
-
-🔥 If you found this helpful, **Star this repo & share it with fellow ML learners!** 🚀
+💡 **Next Steps?** Keep learning! 📖 The roadmap continues with ML Foundations, MLOps, and Industrial AI! 🚀
