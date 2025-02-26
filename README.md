@@ -1,18 +1,11 @@
 # Machine Learning Roadmap 2025
 ![Machine Learning Roadmap](images/Machine_Learning_Roadmap.png)
 
-<a href="https://your-subscription-link.com" target="_blank">
-  <button style="background-color: #007BFF; color: white; padding: 80px 160px; font-size: 72px; border: none; border-radius: 20px; cursor: pointer;">
-    SUBSCRIBE
-  </button>
-</a>
-
-
-[![Subscribe](https://img.shields.io/badge/Subscribe-007BFF?style=for-the-badge&logoColor=white)](https://your-subscription-link.com)
-
-
-[![Subscribe](https://img.shields.io/badge/Subscribe-007BFF?style=for-the-badge&logo=github)](https://themaistermind.substack.com/)
-
+<p align="center">
+  <a href="[https://your-link.com](https://themaistermind.substack.com/)">
+    <img src="images/Machine_Learning_Roadmap_Newsletter.png" alt="Machine Learning Roadmap" width="300"/>
+  </a>
+</p>
 
 # 🚀 Goal of the Roadmap
 The goal of the roadmap is to provide a list of resources that are enough to become a **Middle Data Scientist starting from ZERO**.
