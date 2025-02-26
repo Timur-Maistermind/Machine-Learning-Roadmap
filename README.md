@@ -22,98 +22,95 @@
     - [🧹 Topic 3: Python clean code tips and formatting](#topic-3-python-clean-code-tips-and-formatting)
     - [📦 Topic 4: Python imports](#topic-4-python-imports)
     - [🔗 Topic 5: Python decorators](#topic-5-python-decorators)
-- [🤖 2. Data Science / ML Introduction](#2-data-science--ml-introduction)
-  - [🔰 2.1 Introduction](#21-introduction)
-  - [📚 2.2 Basic probability, statistics, and linear algebra](#22-basic-probability-statistics-and-linear-algebra)
-    - [📏 Linear algebra](#linear-algebra)
-    - [🎲 Probability and Statistics](#probability-and-statistics)
-  - [🧠 2.3 Supervised learning](#23-supervised-learning)
-    - [📈 Linear regression](#linear-regression)
-    - [📊 Logistic regression](#logistic-regression)
-    - [🔥 Gradient boosting](#gradient-boosting)
-    - [🌲 Random Forest](#random-forest)
-    - [📍 k Nearest Neighbours (k-NN)](#k-nearest-neighbours-k-nn)
-  - [🔍 2.4 Unsupervised learning](#24-unsupervised-learning)
-    - [🌀 Clustering](#clustering)
-    - [📉 Dimensionality reduction](#dimensionality-reduction)
-- [🔬 3. Data Science / ML Deep Dive](#3-data-science--ml-deep-dive)
-  - [💡 3.1 Selected Practical Topics](#31-selected-practical-topics)
-    - [🎯 Feature selection](#feature-selection)
-    - [📊 Feature importance](#feature-importance)
-    - [📏 Model metrics evaluation](#model-metrics-evaluation)
-    - [🔄 Cross-validation](#cross-validation)
-  - [🧠 3.2 Neural Networks Introduction](#32-neural-networks-introduction)
-  - [🛠️ 3.3 Optimization with Python](#33-optimization-with-python)
-    - [📖 Introduction to mathematical optimization with Python](#introduction-to-mathematical-optimization-with-python)
-    - [🔍 Bayesian Optimization](#bayesian-optimization)
-    - [🛠️ Optimization with SciPy](#optimization-with-scipy)
-    - [🎮 Interactive playground of several optimization methods](#interactive-playground-of-several-optimization-methods)
-    - [📚 Additional resources](#additional-resources)
-- [⚙️ 4. MLOps for Data Scientists](#4-mlops-for-data-scientists)
-  - [🔰 4.1 Introduction](#41-introduction)
-  - [📦 4.2 Model registry and experiment tracking](#42-model-registry-and-experiment-tracking)
-  - [🔄 4.3 ML Pipelines](#43-ml-pipelines)
-  - [📡 4.4 Model Monitoring](#44-model-monitoring)
-  - [🐳 4.5 Docker basics](#45-docker-basics)
-  - [📚 4.6 Additional resources](#46-additional-resources)
-- [🏭 5. Industrial AI Topics](#5-industrial-ai-topics)
-  - [📡 5.1 Signal processing](#51-signal-processing)
-  - [🔬 5.2 Data-driven / Hybrid Process Modeling](#52-data-driven--hybrid-process-modeling)
-    - [🎥 Process dynamics and control with video lectures](#process-dynamics-and-control-with-video-lectures)
-    - [📖 Hybrid modeling review](#hybrid-modeling-review)
-    - [📊 Data-driven modeling of dynamical systems](#data-driven-modeling-of-dynamical-systems)
-    - [🧠 Physics-Informed Machine Learning](#physics-informed-machine-learning)
-  - [⚙️ 5.3 Process Control and MPC](#53-process-control-and-mpc)
-  - [🚨 5.4 Anomaly Detection](#54-anomaly-detection)
 
 ---
 
 ## 🎯 Motivation
-(Section content here...)
+💡 Learning Data Science is both exciting and overwhelming. Years ago, there were limited resources; today, there's an ocean of materials. Where should you start? 🤔
 
-## 🎯 The goal of the roadmap
-(Section content here...)
+🌍 Many aspire to solve real-world problems using AI in industrial sectors. Unfortunately, most learning materials don't focus on practical industry applications.
+
+## 🎯 The Goal of the Roadmap
+✔️ This roadmap is your **step-by-step guide** to becoming a solid **Junior+/Middle Data Scientist** from scratch! 🚀
+
+### 🎯 Who is this roadmap for?
+✅ Beginners looking for a structured learning path 📚
+✅ Data Scientists preparing for job changes or promotions 💼
+✅ Engineers transitioning into Data Science 🛠️
+✅ Those interested in **Industrial AI** 🏭
 
 ## ⚠️ READ THIS BEFORE YOU START
-(Section content here...)
+❗ **You will never feel completely "ready."** There's always more to learn in Python, Machine Learning, and Optimization. This roadmap will help you **build strong fundamentals** 💪
+
+✔️ **If you're a beginner**: Start with Python + ML Basics and build a small project 💻
+✔️ **If you have experience**: Pick topics where you need improvement 🔍
 
 ## ⚠️ Disclaimers
-(Section content here...)
+⚠️ No affiliations with recommended courses—these are **handpicked based on experience** 🔍
+💰 Many resources are free, but some paid options provide better structure 🏆
+💡 Coursera offers **financial aid**—I used it as a student! 🎓
+
+---
 
 ## 🛤️ Roadmap Overview
-(Section content here...)
+📌 **Learning is a journey, not a sprint!**
+✅ Start with **Python + ML Basics** ➡️ Build a project ➡️ Progress to **Advanced Topics & MLOps**
+✅ If aiming for **Industrial AI**, complete the core ML topics first.
 
-## 1. Python
-### 1.1 Introduction
-(Section content here...)
+---
 
-### 1.2 Data manipulation
-(Section content here...)
+## 🐍 1. Python
+### 🚀 1.1 Introduction
+Life is too short, learn Python. Forget R or S or T or whatever other programming language letters you see. And for God’s sake, no Matlab in your life should exist.
 
-### 1.3 Data visualization
-#### Intro
-(Section content here...)
+🔹 **Paid Courses:**
+- 🎓 [Basic Python - CodeAcademy](https://www.codecademy.com/learn/learn-python-3)
+- 🎓 [Python Programming - DataCamp](https://app.datacamp.com/learn/skill-tracks/python-programming)
 
-#### Deeper dive
-(Section content here...)
+🔹 **Free Courses:**
+- 🎓 [FutureCoder.io (Hands-on)](https://futurecoder.io/)
+- 🎥 [Dave Gray's Python Course](https://www.youtube.com/watch?v=qwAFL1597eM)
+- 🛠️ [Mini-projects - freeCodeCamp](https://www.youtube.com/watch?v=8ext9G7xspg)
 
-### 1.4 Selected Practical Topics
-#### Topic 1: Python environments and how to set it up with Conda
-(Section content here...)
+---
 
-#### Topic 2: Demystifying methods in Python
-(Section content here...)
+### 📊 1.2 Data Manipulation
+- 📊 [Kaggle Pandas Course](https://www.kaggle.com/learn/pandas)
+- 📚 [MLCourse.ai - Data Manipulation](https://mlcourse.ai/book/topic01/topic01_intro.html)
+- 🔢 [Numpy Basics](https://github.com/ageron/handson-ml2/blob/master/tools_numpy.ipynb)
+- 🏋️ [Pandas Exercises](https://github.com/guipsamora/pandas_exercises)
 
-#### Topic 3: Python clean code tips and formatting
-(Section content here...)
+---
 
-#### Topic 4: Python imports
-(Section content here...)
+### 📈 1.3 Data Visualization
+#### 📌 Intro
+- 📊 [MLCourse.ai - Data Visualization](https://mlcourse.ai/book/topic02/topic02_intro.html)
 
-#### Topic 5: Python decorators
-(Section content here...)
+#### 📌 Deeper Dive
+- 🎨 [Matplotlib Examples](https://matplotlib.org/stable/gallery/index.html)
+- 📊 [Seaborn Examples](https://seaborn.pydata.org/examples/index.html)
+- 📈 [Plotly Interactive Plots](https://plotly.com/python/)
 
-...(Continue filling in each section as required)...
+---
+
+### 💡 1.4 Selected Practical Topics
+#### 🛠️ Topic 1: Python environments and how to set it up with Conda
+- 🔗 [Guide to Conda Environments](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)
+
+#### 🔍 Topic 2: Demystifying methods in Python
+- 🧐 [Understanding Python Methods](https://realpython.com/instance-class-and-static-methods-demystified/)
+
+#### 🧹 Topic 3: Python clean code tips and formatting
+- 🧼 [Clean Code Principles](https://github.com/zedr/clean-code-python)
+- 📝 [PEP8 Formatting Guide](https://realpython.com/python-pep8/)
+- 🛠️ [Using Black Formatter](https://www.python-engineer.com/posts/black-code-formatter/)
+- 🔍 [Linting with Flake8 & Pylint](https://www.jumpingrivers.com/blog/python-linting-guide/)
+
+#### 📦 Topic 4: Python imports
+- 📦 [Understanding Python Imports](https://realpython.com/python-import/)
+
+#### 🔗 Topic 5: Python decorators
+- 🎭 [Guide to Python Decorators](https://realpython.com/primer-on-python-decorators/)
 
 ---
 
