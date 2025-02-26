@@ -1,23 +1,14 @@
-# 🚀 Step-by-step roadmap to becoming a Data Scientist
-
-## ✨ by Timur Bikmukhametov
-
----
+# Machine Learning Roadmap. Step-by-Step way to become a Data Scientist.
 
 ## 🚀 Table of Contents  
 
-### 🔥 Kickstarting Your Data Science Journey  
-- 📌 [Motivation](#motivation) – Why should you even care?  
-- 🎯 [The Goal of the Roadmap](#the-goal-of-the-roadmap) – What you’ll achieve!  
-- ⚠️ [READ THIS BEFORE YOU START](#read-this-before-you-start) – A must-read!  
-- 🚨 [Disclaimers](#disclaimers) – No surprises!  
+### Machine Learning Roadmap Introduction
+- 📌 [Motivation](#motivation) 
+- 🎯 [The Goal of the Roadmap](#the-goal-of-the-roadmap) 
+- ⚠️ [READ THIS BEFORE YOU START](#read-this-before-you-start)  
+- 🚨 [Disclaimers](#disclaimers)  
 
-### 🛤️ Roadmap Overview  
-- 🗺️ [Roadmap Overview](#roadmap-overview) – Your learning path at a glance!  
-
----
-
-## 🐍 1. Python – The Backbone of Data Science  
+## 🐍 1. Python  
 - 📖 [1.1 Introduction](#11-introduction)  
 - 🛠️ [1.2 Data Manipulation](#12-data-manipulation)  
 - 📊 [1.3 Data Visualization](#13-data-visualization)  
