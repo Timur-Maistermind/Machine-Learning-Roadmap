@@ -15,7 +15,7 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 - ✅ Data Scientists who are looking to refresh their knowledge and prepare for interviews.
 - ✅ Data Scientists who want to level up skills in a specific domain, e.g. Optimization.
   
-# 📚 Download Machine Learning Roadmap as a PDF file.
+# 📚 Download this Machine Learning Roadmap as a PDF file.
 [The roadmap can be downloaded as a PDF file here.](https://www.timurmlcareer.com/machine-learning-roadmap)
 
 # 🔬 Machine Learning Roadmap Overview
