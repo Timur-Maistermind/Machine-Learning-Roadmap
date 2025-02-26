@@ -2,8 +2,9 @@
 
 The goal of the roadmap is to provide a list of resources that are enough to be a **Middle Data Scientist starting from ZERO**. Some parts will be useful even for Senior/Lead DS.
 
-### Who is this roadmap for?
+## 🎯 Who is this roadmap for?
 ✅ Data Science beginners who are looking for a practical step-by-step guide.
+
 ✅ Data Scientists who aim to level up skills for a job change or promotion.
 ✅ Data Scientists who are looking to refresh their knowledge and prepare for interviews.
 ✅ Data Scientists who want to level up skills in a specific domain, e.g. Optimization.
