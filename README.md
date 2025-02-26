@@ -180,6 +180,6 @@ Life is too short, learn Python. Forget R or S or T or whatever other programmin
 #### Dimensionality Reduction
 - 📉 [PCA - Sebastian Raschka](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
 - 🎨 [t-SNE Visualization](https://distill.pub/2016/misread-tsne/)
-- 📈 [UMAP Explanation](https://pair-code.github.io/understanding-umap/
+- 📈 [UMAP Explanation](https://pair-code.github.io/understanding-umap/)
 
 💡 **Next Steps?** Keep learning! 📖 This roadmap continues with ML Foundations, MLOps, and Industrial AI! 🚀
