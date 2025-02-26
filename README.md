@@ -55,7 +55,9 @@ The goal of the roadmap is to provide a list of resources that are enough to be 
   - 🧠 [Bayesian Optimization](#bayesian-optimization)  
   - 🛠️ [SciPy Optimization](#optimization-with-scipy)  
   - 🎮 [Interactive Optimization Playground](#interactive-playground-of-several-optimization-methods)  
-  - 📚 [Additional Resources](#additional-resources)  
+  - 📚 [Additional Resources](#additional-resources)
+- 🎛️ [3.4 Signal Processing](#34-signal-processing)
+- ⚠️ [3.5 Anomaly Detection](#35-anomaly-detection)  
 
 ## ⚙️ 4. MLOps for Data Scientists  
 - 🏗️ [4.1 Introduction](#41-introduction)  
@@ -325,11 +327,16 @@ SciPy provides built-in **optimization algorithms** widely used in ML and scient
 - 📚 [Awesome Optimization Resources](https://github.com/ebrahimpichka/awesome-optimization)  
   **Extensive list of optimization techniques & applications.**
 
+---
+
 ### 3.4 Signal Processing
 Signal processing is **crucial** in industrial ML projects. You need to filter out noise, remove outliers, and handle **vibration analysis** using **time-frequency domain filters**.
 
 - 🎓 [Signal Processing Course - Mike Cohen (Paid)](https://www.udemy.com/course/signal-processing/?couponCode=2021PM20)
 - 📖 [Fourier Transform & Filters](https://en.wikipedia.org/wiki/Fourier_transform)
+
+  
+---
 
 ### 3.5 Anomaly Detection
 Anomaly detection is **critical** in industrial AI for detecting equipment failures, process deviations, and system anomalies.
