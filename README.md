@@ -1,12 +1,15 @@
 # Machine Learning Roadmap. Step-by-Step way to become a Data Scientist.
 
-## 🚀 Table of Contents  
+The goal of the roadmap is to provide a list of resources that are enough to be a **Middle Data Scientist starting from ZERO**. Some parts will be useful even for Senior/Lead DS.
 
-### Machine Learning Roadmap Introduction
-- 📌 [Motivation](#motivation) 
-- 🎯 [The Goal of the Roadmap](#the-goal-of-the-roadmap) 
-- ⚠️ [READ THIS BEFORE YOU START](#read-this-before-you-start)  
-- 🚨 [Disclaimers](#disclaimers)  
+### Who is this roadmap for?
+✅ Data Science beginners who are looking for a practical step-by-step guide.
+✅ Data Scientists who aim to level up skills for a job change or promotion.
+✅ Data Scientists who are looking to refresh their knowledge and prepare for interviews.
+✅ Data Scientists who want to level up skills in a specific domain, e.g. Optimization.
+✅ People who want to transition to data science from an engineering field and become an industrial data scientist.
+
+## 🚀 Table of Contents  
 
 ## 🐍 1. Python  
 - 📖 [1.1 Introduction](#11-introduction)  
@@ -68,39 +71,6 @@
   - 🔬 [Physics-Informed Machine Learning](#physics-informed-machine-learning)  
 - 🕹️ [5.3 Process Control & MPC](#53-process-control-and-mpc)  
 - ⚠️ [5.4 Anomaly Detection](#54-anomaly-detection)  
-
-
-## Motivation
-💡 Learning Data Science is both exciting and overwhelming. Years ago, there were limited resources; today, there's an ocean of materials. Where should you start? 🤔
-
-🌍 Many aspire to solve real-world problems using AI in industrial sectors. Unfortunately, most learning materials don't focus on practical industry applications.
-
-## The Goal of the Roadmap
-✔️ This roadmap is your **step-by-step guide** to becoming a solid **Junior+/Middle Data Scientist** from scratch! 🚀
-
-### Who is this roadmap for?
-✅ Beginners looking for a structured learning path 📚
-✅ Data Scientists preparing for job changes or promotions 💼
-✅ Engineers transitioning into Data Science 🛠️
-✅ Those interested in **Industrial AI** 🏭
-
-## READ THIS BEFORE YOU START
-❗ **You will never feel completely "ready."** There's always more to learn in Python, Machine Learning, and Optimization. This roadmap will help you **build strong fundamentals** 💪
-
-✔️ **If you're a beginner**: Start with Python + ML Basics and build a small project 💻
-✔️ **If you have experience**: Pick topics where you need improvement 🔍
-
-## Disclaimers
-⚠️ No affiliations with recommended courses—these are **handpicked based on experience** 🔍
-💰 Many resources are free, but some paid options provide better structure 🏆
-💡 Coursera offers **financial aid**—I used it as a student! 🎓
-
----
-
-## Roadmap Overview
-📌 **Learning is a journey, not a sprint!**
-✅ Start with **Python + ML Basics** ➡️ Build a project ➡️ Progress to **Advanced Topics & MLOps**
-✅ If aiming for **Industrial AI**, complete the core ML topics first.
 
 ---
 
