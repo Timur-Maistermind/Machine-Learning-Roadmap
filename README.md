@@ -30,8 +30,6 @@
   - 📦 [Mastering Imports](#topic-4-python-imports)  
   - 🚀 [Understanding Decorators](#topic-5-python-decorators)  
 
----
-
 ## 📊 2. Data Science / ML Introduction  
 - 🔰 [2.1 Introduction](#21-introduction)  
 - 🎲 [2.2 Probability, Stats & Linear Algebra](#22-basic-probability-statistics-and-linear-algebra)  
@@ -46,8 +44,6 @@
 - 🔎 [2.4 Unsupervised Learning](#24-unsupervised-learning)  
   - 🧩 [Clustering](#clustering)  
   - 📉 [Dimensionality Reduction](#dimensionality-reduction)  
-
----
 
 ## 🔬 3. Data Science / ML Deep Dive  
 - 🎯 [3.1 Selected Practical Topics](#31-selected-practical-topics)  
