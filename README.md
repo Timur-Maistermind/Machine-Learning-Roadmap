@@ -1,7 +1,7 @@
 # Machine Learning Roadmap 2025
 
 ## 🚀 Goal of the Roadmap
-The goal of the roadmap is to provide a list of resources that are enough to be a **Middle Data Scientist starting from ZERO**. Some parts will be useful even for Senior/Lead DS.
+The goal of the roadmap is to provide a list of resources that are enough to become a **Middle Data Scientist starting from ZERO**. Some parts will be useful even for Senior/Lead DS.
 
 Most of the resources were personally tested by [me,](https://www.linkedin.com/in/timurbikmukhametov/) when I was becoming a Data Scientist or when I was upgrading my skills and help other team members doing so.
 
