@@ -167,59 +167,102 @@ Once you’re comfortable with Python, these **practical topics** will help you 
 
 ---
 
+## 2. Data Science / ML Introduction
+
+Now we are getting to the "most interesting" part. 
+
+A solid understanding of **the basics** is crucial to being a great Data Scientist. This doesn’t mean you have to be a math genius, but **understanding core principles** will help both in your work and in interviews.
+
+This roadmap focuses on the most **widely used algorithms**—ones you **must** understand deeply. Once you master these, you’ll be able to explore other algorithms confidently.
+
 ---
 
-## 2. Data Science / ML Introduction
 ### 2.1 Introduction
-- 🎓 [Machine Learning Course - Andrew Ng](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
-  - Covers regression and classification, core ML concepts.
-  - Coursera offers financial aid if needed.
+Machine Learning is about finding patterns in data and making predictions.
+
+💡 **Your goal?** Understand the fundamental concepts of ML, classification, and regression before moving forward.
+
+- 🎓 [Andrew Ng’s ML Course (Coursera)](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)  
+  Perfect **introductory course** covering key ML concepts. Instead of browsing multiple intro courses, **start with this one.**
+  
+💡 **Note:** Coursera offers **financial aid**, so if needed, apply for it (I did it as a student, and it worked!).
 
 ---
 
 ### 2.2 Basic Probability, Statistics, and Linear Algebra
+To build good ML models, you **must** understand basic math concepts. You don’t need to be an expert, but knowing the fundamentals is essential.
+
 #### Linear Algebra
-- 🎥 [3Blue1Brown Linear Algebra Series](https://www.3blue1brown.com/topics/linear-algebra?ref=mrdbourke.com)
-- 📖 [Python Linear Algebra Tutorial - Pablo Caceres](https://pabloinsente.github.io/intro-linear-algebra)
+- 🎥 [3Blue1Brown’s Linear Algebra Series](https://www.3blue1brown.com/topics/linear-algebra?ref=mrdbourke.com)  
+  **Mind-blowing visuals** that make linear algebra intuitive.
+- 📚 [Python Linear Algebra Tutorial - Pablo Caceres](https://pabloinsente.github.io/intro-linear-algebra)  
+  **Apply linear algebra concepts in Python** (essential for real-world ML applications).
 
 #### Probability and Statistics
-- 📊 [Statistics Crash Course - Adriene Hill](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
-- 📖 [Learn Statistics with Python - Ethan Weed](https://ethanweed.github.io/pythonbook/landingpage.html)
+- 🎥 [Statistics Crash Course - Adriene Hill](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)  
+  **Easiest explanations** for complex probability & stats concepts.
+- 📚 [Learn Statistics with Python - Ethan Weed](https://ethanweed.github.io/pythonbook/landingpage.html)  
+  **Hands-on Python exercises** for better understanding.
 
 ---
 
 ### 2.3 Supervised Learning
+Supervised learning is the foundation of ML. Most real-world applications involve some form of **classification** or **regression** problems.
+
+💡 **Your goal?** Master these fundamental algorithms before moving to more complex techniques.
+
 #### Linear Regression
-- 📖 [Nando de Freitas Lectures - UBC](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cM)
-- 🛠️ [Closed-form & Gradient Descent Implementation](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
+- 🎥 [Nando de Freitas UBC Lectures](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cM)  
+  **Breaks down linear regression theory into simple terms.**
+- 📚 [Linear Regression: Closed-form & Gradient Descent](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)  
+  **Python implementation & visualizations.**
+- 📚 [Regularization in Linear Regression](https://www.kirenz.com/blog/posts/2019-08-12-python-lasso-regression-auto/#lasso-regression-in-python)  
+  **Learn Ridge & LASSO regression (important for interviews).**
 
 #### Logistic Regression
-- 📖 [MLCourse.ai - Logistic Regression](https://mlcourse.ai/book/topic05/topic05_intro.html)
-- 📊 [Odds Ratio Interpretation](https://mmuratarat.github.io/2019-09-05/odds-ratio-logistic-regression)
+- 📚 [MLCourse.ai - Logistic Regression](https://mlcourse.ai/book/topic05/topic05_intro.html)  
+  **Great structured learning path for logistic regression.**
+- 🔎 [Odds Ratio & Weights Interpretation](https://mmuratarat.github.io/2019-09-05/odds-ratio-logistic-regression)  
+  **Key topic for understanding model interpretability.**
 
 #### Gradient Boosting
-- 📖 [MLCourse.ai - Gradient Boosting](https://mlcourse.ai/book/topic10/topic10_gradient_boosting.html)
-- 📑 [XGBoost Original Paper](https://arxiv.org/pdf/1603.02754.pdf)
-- 🎮 [Gradient Boosting Demo - Alex Rogozhnikov](https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
+- 📚 [MLCourse.ai - Gradient Boosting](https://mlcourse.ai/book/topic10/topic10_gradient_boosting.html)  
+  **The best guide to gradient boosting models.**
+- 📚 [XGBoost Paper](https://arxiv.org/pdf/1603.02754.pdf)  
+  **Fundamental research paper for advanced understanding.**
+- 🎥 [Gradient Boosting Interactive Playground](https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)  
+  **Awesome visual explanations!**
 
 #### Random Forest
-- 🎥 [Nando de Freitas Lectures](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cM)
-- 📖 [Bagging & Random Forest - MLCourse.ai](https://mlcourse.ai/book/topic05/topic05_intro.html)
+- 🎥 [Nando de Freitas UBC Lectures](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cM)  
+  **Great overview of bagging and random forests.**
+- 📚 [MLCourse.ai - Bagging & Random Forest](https://mlcourse.ai/book/topic05/topic05_intro.html)  
+  **Comparison between Random Forest & Gradient Boosting.**
 
-#### k Nearest Neighbours (k-NN)
-- 📖 [Understanding k-NN](https://mmuratarat.github.io/2019-07-12/k-nn-from-scratch)
+#### k-Nearest Neighbors (k-NN)
+- 📚 [Understanding k-NN](https://mmuratarat.github.io/2019-07-12/k-nn-from-scratch)  
+  **Simple, intuitive distance-based algorithm.**
 
 ---
 
 ### 2.4 Unsupervised Learning
+Unsupervised learning helps **discover hidden structures** in data when labels are **not available.**
+
+💡 **Your goal?** Understand clustering and dimensionality reduction methods.
+
 #### Clustering
-- 📌 [k-Means from Scratch](https://mmuratarat.github.io/2019-07-23/kmeans_from_scratch)
-- 📌 [DBScan Clustering](https://github.com/christianversloot/machine-learning-articles/blob/main/performing-dbscan-clustering-with-python-and-scikit-learn.md)
+- 📚 [k-Means Clustering](https://mmuratarat.github.io/2019-07-23/kmeans_from_scratch)  
+  **Most common clustering method; learn it well!**
+- 📚 [DBScan Clustering](https://github.com/christianversloot/machine-learning-articles/blob/main/performing-dbscan-clustering-with-python-and-scikit-learn.md)  
+  **Handles noisy datasets better than k-Means.**
 
 #### Dimensionality Reduction
-- 📉 [PCA - Sebastian Raschka](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
-- 🎨 [t-SNE Visualization](https://distill.pub/2016/misread-tsne/)
-- 📈 [UMAP Explanation](https://pair-code.github.io/understanding-umap/)
+- 📚 [PCA - Step-by-step Guide](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)  
+  **Fundamental technique for reducing data dimensions.**
+- 🎥 [t-SNE Explained](https://distill.pub/2016/misread-tsne/)  
+  **Great for visualizing high-dimensional data.**
+- 📚 [UMAP - Understanding & Applications](https://pair-code.github.io/understanding-umap/)  
+  **Powerful alternative to t-SNE for embeddings.**
 
 ---
 
