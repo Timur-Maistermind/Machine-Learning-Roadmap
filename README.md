@@ -406,13 +406,22 @@ If you want to **go deeper into MLOps**, check out this roadmap. But **be cautio
 ---
 
 ## 5. Industrial AI Topics
+
+Industrial AI is a rapidly growing field with applications across multiple industries, including **bio and chemical engineering, manufacturing, oil and gas, metals and mining, and energy/renewables**. Unlike traditional machine learning applications, industrial AI focuses on **real-world problem-solving** beyond just optimizing marketplace metrics. This section will provide the fundamentals you need to **transition into industrial AI roles** and solve key industrial problems.
+
+---
+
 ### 5.1 Signal Processing
+Signal processing is **crucial** in industrial ML projects. You need to filter out noise, remove outliers, and handle **vibration analysis** using **time-frequency domain filters**.
+
 - 🎓 [Signal Processing Course - Mike Cohen (Paid)](https://www.udemy.com/course/signal-processing/?couponCode=2021PM20)
 - 📖 [Fourier Transform & Filters](https://en.wikipedia.org/wiki/Fourier_transform)
 
 ---
 
 ### 5.2 Data-driven / Hybrid Process Modeling
+Process modeling is **key** in industrial ML projects. This includes **mass and energy balances**, control systems, and combining **first-principles knowledge** with ML models.
+
 #### Process Dynamics and Control with Video Lectures
 - 🎥 [Process Dynamics and Control - Mun.ca](https://www.mun.ca/engineering/crise/about-us/our-people/process-dynamics-and-control/)
 
@@ -430,6 +439,8 @@ If you want to **go deeper into MLOps**, check out this roadmap. But **be cautio
 ---
 
 ### 5.3 Process Control and MPC
+Process control and **Model Predictive Control (MPC)** are widely used in industrial settings. Here are some **key resources** to learn practical control techniques.
+
 - 🎓 [Process Control with Python - Hedengren](https://apmonitor.com/pdc/index.php/Main/CourseSchedule)
 - 📖 [Practical Process Control - Opticontrols](https://blog.opticontrols.com/)
 - 🎥 [MPC and MHE with Casadi](https://www.youtube.com/watch?v=RrnkPrcpyEA&list=PLK8squHT_Uzej3UCUHjtOtm5X7pMFSgAL)
@@ -439,6 +450,8 @@ If you want to **go deeper into MLOps**, check out this roadmap. But **be cautio
 ---
 
 ### 5.4 Anomaly Detection
+Anomaly detection is **critical** in industrial AI for detecting equipment failures, process deviations, and system anomalies.
+
 - 📖 [Anomaly Detection Methods Review - ACM](https://dl.acm.org/doi/abs/10.1145/1541880.1541882)
 - 📖 [Anomaly Detection with Python - Neptune AI](https://neptune.ai/blog/anomaly-detection-in-time-series)
 - 📖 [Deep Learning Anomaly Detection](https://arxiv.org/pdf/2211.05244)
