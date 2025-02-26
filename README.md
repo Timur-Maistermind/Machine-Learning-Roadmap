@@ -1,4 +1,3 @@
-# Machine Learning Roadmap 2025
 # 📌 Data Science & Machine Learning Roadmap (2024)
 
 🚀 A **step-by-step roadmap** to becoming a **Data Scientist & ML Engineer** in 2024. Covers **Python, Machine Learning, Deep Learning, MLOps, and Industrial AI topics** with curated resources, practical projects, and hands-on tutorials.
@@ -11,6 +10,10 @@
 - [Motivation](#motivation)
 - [The Goal of This Roadmap](#the-goal-of-this-roadmap)
 - [Python](#python)
+  - [Introduction](#introduction)
+  - [Data Manipulation](#data-manipulation)
+  - [Data Visualization](#data-visualization)
+  - [Selected Practical Topics](#selected-practical-topics)
 - [Data Science / ML Introduction](#data-science--ml-introduction)
 - [Deep Dive into ML](#deep-dive-into-ml)
 - [MLOps for Data Scientists](#mlops-for-data-scientists)
@@ -33,20 +36,40 @@ Machine Learning is a vast and evolving field, making it overwhelming for beginn
 ---
 
 ## 🔹 Python
-### 🔥 Why Learn Python?
-Python is the dominant language for ML & Data Science. Start with the following:
-- **[Python Basics (Codecademy)](https://www.codecademy.com/learn/learn-python-3)**  
-- **[Python for Data Science (DataCamp)](https://app.datacamp.com/learn/skill-tracks/python-programming)**  
-- **[NumPy & Pandas for Data Science (Kaggle)](https://www.kaggle.com/learn/pandas)**  
-- **[Python Visualization (Matplotlib, Seaborn, Plotly)](https://github.com/javedali99/python-data-visualization/tree/main)**  
+### 🔥 Introduction
+Life is too short, learn Python. Forget R or other programming languages. Python dominates ML and Data Science.
+
+### **Step 1: Python Basics**
+- **[Basic Python from CodeAcademy](https://www.codecademy.com/learn/learn-python-3)**  
+- **[Python Programming Skill Track from DataCamp](https://app.datacamp.com/learn/skill-tracks/python-programming)**  
+- **[Futurecoder.io Free Python Course](https://futurecoder.io/)**  
+- **[Python Course by Dave Gray (YouTube)](https://www.youtube.com/watch?v=qwAFL1597eM)**  
+
+### **Step 2: Data Manipulation**
+- **[Kaggle Pandas Course](https://www.kaggle.com/learn/pandas)**  
+- **[Data Manipulation from mlcourse.ai](https://mlcourse.ai/book/topic01/topic01_intro.html)**  
+- **[NumPy Hands-On Guide](https://github.com/ageron/handson-ml2/blob/master/tools_numpy.ipynb)**  
+- **[Pandas Exercises by Guilherme Samora](https://github.com/guipsamora/pandas_exercises)**  
+
+### **Step 3: Data Visualization**
+- **[Data Visualization from mlcourse.ai](https://mlcourse.ai/book/topic02/topic02_intro.html)**  
+- **[Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)**  
+- **[Seaborn Example Gallery](https://seaborn.pydata.org/examples/index.html)**  
+- **[Plotly Interactive Visualization](https://plotly.com/python/)**  
+
+### **Step 4: Selected Practical Topics**
+- **[Python Environments with Conda](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)**  
+- **[Python Methods Explanation](https://realpython.com/instance-class-and-static-methods-demystified/)**  
+- **[Python Clean Code Tips](https://github.com/zedr/clean-code-python)**  
+- **[Python Code Formatting with Black](https://www.python-engineer.com/posts/black-code-formatter/)**  
 
 ---
 
 ## 🔹 Data Science / ML Introduction
 ### 🤖 Core ML Topics:
-- **Supervised Learning:** Linear Regression, Logistic Regression, Random Forest, Gradient Boosting  
-- **Unsupervised Learning:** Clustering, PCA, t-SNE  
-- **ML Model Evaluation Metrics (Precision, Recall, AUC-ROC, etc.)**  
+- **[Supervised Learning](https://scikit-learn.org/stable/supervised_learning.html):** [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html), [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html), [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html), [Gradient Boosting](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)  
+- **[Unsupervised Learning](https://scikit-learn.org/stable/unsupervised_learning.html):** [Clustering](https://scikit-learn.org/stable/modules/clustering.html), [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html), [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)  
+- **[ML Model Evaluation Metrics](https://scikit-learn.org/stable/modules/model_evaluation.html):** [Precision](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html), [Recall](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html), [AUC-ROC](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html)  
 
 📚 **Best ML Courses:**
 - **[Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)**  
@@ -54,46 +77,7 @@ Python is the dominant language for ML & Data Science. Start with the following:
 
 ---
 
-## 🔹 Deep Dive into ML
-### 📌 Topics Covered:
-- **Feature Selection & Feature Importance**  
-- **Hyperparameter Tuning & Bayesian Optimization**  
-- **Cross-Validation & Model Interpretability**  
-- **Deep Learning (ANNs, CNNs, Transformers)**  
-
-🔗 **Top Deep Learning Resources:**
-- **[Deep Learning Specialization – Andrew Ng](https://www.coursera.org/specializations/deep-learning)**  
-- **[CS231n – CNNs for Visual Recognition (Stanford)](http://cs231n.stanford.edu/)**  
-
----
-
-## 🔹 MLOps for Data Scientists
-### 📌 Why Learn MLOps?
-MLOps helps deploy, monitor, and scale ML models in production. Essential skills include:
-- **Model Deployment (Flask, FastAPI, Streamlit)**  
-- **Model Monitoring (MLflow, Evidently AI)**  
-- **Docker & Kubernetes for ML**  
-
-🔗 **Best MLOps Guides:**
-- **[Google MLOps Course](https://cloud.google.com/learn/courses/intro-mlops)**  
-- **[MLOps Zoomcamp (DataTalksClub)](https://github.com/DataTalksClub/mlops-zoomcamp)**  
-
----
-
-## 🔹 Industrial AI Topics
-### 🌟 Advanced Topics for Industrial AI:
-- **Signal Processing for Time Series Data**  
-- **Hybrid Modeling (Physics-Informed ML)**  
-- **Model Predictive Control (MPC)**  
-- **Anomaly Detection in Industrial Systems**  
-
-🔗 **Resources:**
-- **[Data-Driven Modeling of Dynamical Systems (Steve Brunton)](https://www.youtube.com/watch?v=Kap3TZwAsv0&list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt)**  
-- **[Anomaly Detection in Time Series (Neptune Blog)](https://neptune.ai/blog/anomaly-detection-in-time-series)**  
-
----
-
-## 🔗 Additional Resources
+## 🔹 Additional Resources
 📖 **Best Books:**
 - "Pattern Recognition and Machine Learning" – Christopher Bishop  
 - "Interpretable Machine Learning" – Christoph Molnar  
