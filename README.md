@@ -4,68 +4,87 @@
 
 ---
 
-## 📌 Table of Contents
-- [Motivation](#motivation)
-- [The Goal of the Roadmap](#the-goal-of-the-roadmap)
-- [READ THIS BEFORE YOU START](#read-this-before-you-start)
-- [Disclaimers](#disclaimers)
-- [Roadmap Overview](#roadmap-overview)
-- [1. Python](#1-python)
-  - [1.1 Introduction](#11-introduction)
-  - [1.2 Data Manipulation](#12-data-manipulation)
-  - [1.3 Data Visualization](#13-data-visualization)
-    - [Intro](#intro)
-    - [Deeper Dive](#deeper-dive)
-  - [1.4 Selected Practical Topics](#14-selected-practical-topics)
-    - [Topic 1: Python environments and how to set it up with Conda](#topic-1-python-environments-and-how-to-set-it-up-with-conda)
-    - [Topic 2: Demystifying methods in Python](#topic-2-demystifying-methods-in-python)
-    - [Topic 3: Python clean code tips and formatting](#topic-3-python-clean-code-tips-and-formatting)
-    - [Topic 4: Python imports](#topic-4-python-imports)
-    - [Topic 5: Python decorators](#topic-5-python-decorators)
-- [2. Data Science / ML Introduction](#2-data-science--ml-introduction)
-  - [2.1 Introduction](#21-introduction)
-  - [2.2 Basic probability, statistics, and linear algebra](#22-basic-probability-statistics-and-linear-algebra)
-    - [Linear algebra](#linear-algebra)
-    - [Probability and Statistics](#probability-and-statistics)
-  - [2.3 Supervised learning](#23-supervised-learning)
-    - [Linear regression](#linear-regression)
-    - [Logistic regression](#logistic-regression)
-    - [Gradient boosting](#gradient-boosting)
-    - [Random Forest](#random-forest)
-    - [k Nearest Neighbours (k-NN)](#k-nearest-neighbours-k-nn)
-  - [2.4 Unsupervised learning](#24-unsupervised-learning)
-    - [Clustering](#clustering)
-    - [Dimensionality reduction](#dimensionality-reduction)
-- [3. Data Science / ML Deep Dive](#3-data-science--ml-deep-dive)
-  - [3.1 Selected Practical Topics](#31-selected-practical-topics)
-    - [Feature selection](#feature-selection)
-    - [Feature importance](#feature-importance)
-    - [Model metrics evaluation](#model-metrics-evaluation)
-    - [Cross-validation](#cross-validation)
-  - [3.2 Neural Networks Introduction](#32-neural-networks-introduction)
-  - [3.3 Optimization with Python](#33-optimization-with-python)
-    - [Introduction to mathematical optimization with Python](#introduction-to-mathematical-optimization-with-python)
-    - [Bayesian Optimization](#bayesian-optimization)
-    - [Optimization with SciPy](#optimization-with-scipy)
-    - [Interactive playground of several optimization methods](#interactive-playground-of-several-optimization-methods)
-    - [Additional resources](#additional-resources)
-- [4. MLOps for Data Scientists](#4-mlops-for-data-scientists)
-  - [4.1 Introduction](#41-introduction)
-  - [4.2 Model registry and experiment tracking](#42-model-registry-and-experiment-tracking)
-  - [4.3 ML Pipelines](#43-ml-pipelines)
-  - [4.4 Model Monitoring](#44-model-monitoring)
-  - [4.5 Docker basics](#45-docker-basics)
-  - [4.6 Additional resources](#46-additional-resources)
-- [5. Industrial AI Topics](#5-industrial-ai-topics)
-  - [5.1 Signal processing](#51-signal-processing)
-  - [5.2 Data-driven / Hybrid Process Modeling](#52-data-driven--hybrid-process-modeling)
-    - [Process dynamics and control with video lectures](#process-dynamics-and-control-with-video-lectures)
-    - [Hybrid modeling review](#hybrid-modeling-review)
-    - [Data-driven modeling of dynamical systems](#data-driven-modeling-of-dynamical-systems)
-    - [Physics-Informed Machine Learning](#physics-informed-machine-learning)
-  - [5.3 Process Control and MPC](#53-process-control-and-mpc)
-  - [5.4 Anomaly Detection](#54-anomaly-detection)
+## 🚀 Table of Contents  
+
+### 🔥 Kickstarting Your Data Science Journey  
+- 📌 [Motivation](#motivation) – Why should you even care?  
+- 🎯 [The Goal of the Roadmap](#the-goal-of-the-roadmap) – What you’ll achieve!  
+- ⚠️ [READ THIS BEFORE YOU START](#read-this-before-you-start) – A must-read!  
+- 🚨 [Disclaimers](#disclaimers) – No surprises!  
+
+### 🛤️ Roadmap Overview  
+- 🗺️ [Roadmap Overview](#roadmap-overview) – Your learning path at a glance!  
+
 ---
+
+## 🐍 1. Python – The Backbone of Data Science  
+- 📖 [1.1 Introduction](#11-introduction)  
+- 🛠️ [1.2 Data Manipulation](#12-data-manipulation)  
+- 📊 [1.3 Data Visualization](#13-data-visualization)  
+  - 🔍 [Intro](#intro)  
+  - 🚀 [Deeper Dive](#deeper-dive)  
+- 🎯 [1.4 Selected Practical Topics](#14-selected-practical-topics)  
+  - 🏗️ [Python environments & Conda setup](#topic-1-python-environments-and-how-to-set-it-up-with-conda)  
+  - 🔎 [Demystifying Python methods](#topic-2-demystifying-methods-in-python)  
+  - ✨ [Clean Code & Formatting](#topic-3-python-clean-code-tips-and-formatting)  
+  - 📦 [Mastering Imports](#topic-4-python-imports)  
+  - 🚀 [Understanding Decorators](#topic-5-python-decorators)  
+
+---
+
+## 📊 2. Data Science / ML Introduction  
+- 🔰 [2.1 Introduction](#21-introduction)  
+- 🎲 [2.2 Probability, Stats & Linear Algebra](#22-basic-probability-statistics-and-linear-algebra)  
+  - ➕ [Linear Algebra](#linear-algebra)  
+  - 🎲 [Probability & Statistics](#probability-and-statistics)  
+- 🤖 [2.3 Supervised Learning](#23-supervised-learning)  
+  - 📈 [Linear Regression](#linear-regression)  
+  - 🔢 [Logistic Regression](#logistic-regression)  
+  - 🌲 [Random Forest](#random-forest)  
+  - ⚡ [Gradient Boosting](#gradient-boosting)  
+  - 🔍 [k-NN (k Nearest Neighbours)](#k-nearest-neighbours-k-nn)  
+- 🔎 [2.4 Unsupervised Learning](#24-unsupervised-learning)  
+  - 🧩 [Clustering](#clustering)  
+  - 📉 [Dimensionality Reduction](#dimensionality-reduction)  
+
+---
+
+## 🔬 3. Data Science / ML Deep Dive  
+- 🎯 [3.1 Selected Practical Topics](#31-selected-practical-topics)  
+  - 🎯 [Feature Selection](#feature-selection)  
+  - 💡 [Feature Importance](#feature-importance)  
+  - 🎯 [Model Metrics Evaluation](#model-metrics-evaluation)  
+  - 🔁 [Cross-Validation](#cross-validation)  
+- 🧠 [3.2 Neural Networks Introduction](#32-neural-networks-introduction)  
+- 🔄 [3.3 Optimization with Python](#33-optimization-with-python)  
+  - 🚀 [Intro to Optimization](#introduction-to-mathematical-optimization-with-python)  
+  - 🧠 [Bayesian Optimization](#bayesian-optimization)  
+  - 🛠️ [SciPy Optimization](#optimization-with-scipy)  
+  - 🎮 [Interactive Optimization Playground](#interactive-playground-of-several-optimization-methods)  
+  - 📚 [Additional Resources](#additional-resources)  
+
+---
+
+## ⚙️ 4. MLOps for Data Scientists  
+- 🏗️ [4.1 Introduction](#41-introduction)  
+- 📦 [4.2 Model Registry & Experiment Tracking](#42-model-registry-and-experiment-tracking)  
+- 🔄 [4.3 ML Pipelines](#43-ml-pipelines)  
+- 🛠️ [4.4 Model Monitoring](#44-model-monitoring)  
+- 🐳 [4.5 Docker Basics](#45-docker-basics)  
+- 📚 [4.6 Additional Resources](#46-additional-resources)  
+
+---
+
+## 🏭 5. Industrial AI Topics  
+- 🎛️ [5.1 Signal Processing](#51-signal-processing)  
+- 🔬 [5.2 Data-Driven / Hybrid Process Modeling](#52-data-driven--hybrid-process-modeling)  
+  - 🎥 [Process Dynamics & Control (Video Lectures)](#process-dynamics-and-control-with-video-lectures)  
+  - 📖 [Hybrid Modeling Review](#hybrid-modeling-review)  
+  - 🧠 [Data-Driven Modeling of Dynamical Systems](#data-driven-modeling-of-dynamical-systems)  
+  - 🔬 [Physics-Informed Machine Learning](#physics-informed-machine-learning)  
+- 🕹️ [5.3 Process Control & MPC](#53-process-control-and-mpc)  
+- ⚠️ [5.4 Anomaly Detection](#54-anomaly-detection)  
+
 
 ## Motivation
 💡 Learning Data Science is both exciting and overwhelming. Years ago, there were limited resources; today, there's an ocean of materials. Where should you start? 🤔
