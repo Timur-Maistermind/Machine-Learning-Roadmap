@@ -49,9 +49,13 @@
     - [Optimization with SciPy](#optimization-with-scipy)
     - [Interactive playground of several optimization methods](#interactive-playground-of-several-optimization-methods)
     - [Additional resources](#additional-resources)
-   
-      
-
+- [4. MLOps for Data Scientists](#4-mlops-for-data-scientists)
+  - [4.1 Introduction](#41-introduction)
+  - [4.2 Model registry and experiment tracking](#42-model-registry-and-experiment-tracking)
+  - [4.3 ML Pipelines](#43-ml-pipelines)
+  - [4.4 Model Monitoring](#44-model-monitoring)
+  - [4.5 Docker basics](#45-docker-basics)
+  - [4.6 Additional resources](#46-additional-resources)
 ---
 
 ## Motivation
@@ -245,6 +249,42 @@ Life is too short, learn Python. Forget R or S or T or whatever other programmin
 #### Additional resources
 - 📖 [Numerical Optimization Book - Jorge Nocedal](https://www.amazon.ca/Numerical-Optimization-Jorge-Nocedal/dp/0387303030)
 - 📚 [Awesome Optimization Resources](https://github.com/ebrahimpichka/awesome-optimization)
+
+---
+
+## 4. MLOps for Data Scientists
+### 4.1 Introduction
+- 🎓 [MLOps Zoomcamp - DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/01-intro)
+
+---
+
+### 4.2 Model Registry and Experiment Tracking
+- 📖 [Model Registry - Neptune AI](https://neptune.ai/blog/ml-model-registry)
+- 📖 [Experiment Tracking - Neptune AI](https://neptune.ai/blog/ml-experiment-tracking)
+- 🛠️ [Hands-on Example - DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/02-experiment-tracking)
+
+---
+
+### 4.3 ML Pipelines
+- 📖 [Building End-to-End ML Pipelines - Neptune AI](https://neptune.ai/blog/building-end-to-end-ml-pipeline)
+- 📖 [Best ML Workflow and Pipeline Orchestration Tools - Neptune AI](https://neptune.ai/blog/best-workflow-and-pipeline-orchestration-tools)
+- 🛠️ [ML Pipelines with Mage/Prefect - DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/03-orchestration)
+
+---
+
+### 4.4 Model Monitoring
+- 📖 [MLOps Monitoring Guides - Evidently AI](https://www.evidentlyai.com/mlops-guides)
+- 🎓 [MLOps Zoomcamp - Model Monitoring](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/05-monitoring)
+
+---
+
+### 4.5 Docker Basics
+- 🎥 [Docker Crash Course - Nana](https://www.youtube.com/watch?v=3c-iBn73dDE)
+
+---
+
+### 4.6 Additional Resources
+- 📖 [MLOps Roadmap 2024 - Marvelous MLOps](https://marvelousmlops.substack.com/p/mlops-roadmap-2024)
 
 ---
 
