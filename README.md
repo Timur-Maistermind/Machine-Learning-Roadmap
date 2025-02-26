@@ -10,6 +10,8 @@ The goal of the roadmap is to provide a list of resources that are enough to be 
 - ✅ Data Scientists who want to level up skills in a specific domain, e.g. Optimization.
 - ✅ People who want to transition to data science from an engineering field and become an industrial data scientist.
 
+![Machine Learning Roadmap](images/Machine Learning Roadmap.png)
+
 ## 🚀 Table of Contents  
 
 ## 🐍 1. Python  
