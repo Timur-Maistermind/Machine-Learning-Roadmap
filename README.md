@@ -36,6 +36,21 @@
   - [2.4 Unsupervised learning](#24-unsupervised-learning)
     - [Clustering](#clustering)
     - [Dimensionality reduction](#dimensionality-reduction)
+- [3. Data Science / ML Deep Dive](#3-data-science--ml-deep-dive)
+  - [3.1 Selected Practical Topics](#31-selected-practical-topics)
+    - [Feature selection](#feature-selection)
+    - [Feature importance](#feature-importance)
+    - [Model metrics evaluation](#model-metrics-evaluation)
+    - [Cross-validation](#cross-validation)
+  - [3.2 Neural Networks Introduction](#32-neural-networks-introduction)
+  - [3.3 Optimization with Python](#33-optimization-with-python)
+    - [Introduction to mathematical optimization with Python](#introduction-to-mathematical-optimization-with-python)
+    - [Bayesian Optimization](#bayesian-optimization)
+    - [Optimization with SciPy](#optimization-with-scipy)
+    - [Interactive playground of several optimization methods](#interactive-playground-of-several-optimization-methods)
+    - [Additional resources](#additional-resources)
+   
+      
 
 ---
 
@@ -181,5 +196,56 @@ Life is too short, learn Python. Forget R or S or T or whatever other programmin
 - 📉 [PCA - Sebastian Raschka](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
 - 🎨 [t-SNE Visualization](https://distill.pub/2016/misread-tsne/)
 - 📈 [UMAP Explanation](https://pair-code.github.io/understanding-umap/)
+
+---
+
+## 3. Data Science / ML Deep Dive
+### 3.1 Selected Practical Topics
+#### Feature selection
+- 📖 [Comprehensive Guide on Feature Selection - Kaggle](https://www.kaggle.com/code/prashant111/comprehensive-guide-on-feature-selection/notebook#Table-of-Contents)
+
+#### Feature importance
+- 📖 [Interpretable ML Book - Linear Models](https://christophm.github.io/interpretable-ml-book/limo.html)
+- 📖 [Interpretable ML Book - Logistic Models](https://christophm.github.io/interpretable-ml-book/logistic.html)
+- 🎥 [Tree-based Feature Importance - Sebastian Raschka](https://www.youtube.com/watch?v=ycyCtxZ0a9w)
+- 📖 [Permutation Feature Importance - Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/feature-importance.html)
+- 🛠️ [SHAP Library Documentation](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
+
+#### Model metrics evaluation
+- 📖 [Regression Metrics - H2O Blog](https://h2o.ai/blog/2019/regression-metrics-guide/)
+- 📖 [Classification Metrics - Evidently AI](https://www.evidentlyai.com/classification-metrics)
+
+#### Cross-validation
+- 📖 [Cross-validation Guide - Neptune AI](https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right)
+
+---
+
+### 3.2 Neural Networks Introduction
+- 🎓 [Deep Learning Specialization - Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+
+---
+
+### 3.3 Optimization with Python
+#### Introduction to mathematical optimization with Python
+- 📖 [Numerical Optimization - Indrag49](https://indrag49.github.io/Numerical-Optimization/)
+
+#### Bayesian Optimization
+- 🎮 [Bayesian Optimization Playground - Distill.pub](https://distill.pub/2020/bayesian-optimization/)
+- 📖 [Bayesian Optimization Theory - Nando de Freitas](http://haikufactory.com/files/bayopt.pdf)
+
+#### Optimization with SciPy
+- 📖 [SciPy Optimization Overview](https://caam37830.github.io/book/03_optimization/scipy_opt.html)
+- 📖 [Optimization Constraints with SciPy - Towards Data Science](https://towardsdatascience.com/introduction-to-optimization-constraints-with-scipy-7abd44f6de25)
+- 📖 [SciPy Optimization Tutorial](https://jiffyclub.github.io/scipy/tutorial/optimize.html#)
+- 📖 [Optimization in Python - Duke University](https://people.duke.edu/~ccc14/sta-663-2017/14C_Optimization_In_Python.html)
+
+#### Interactive playground of several optimization methods
+- 🎮 [Optimization Playground - Ben Frederickson](https://www.benfrederickson.com/numerical-optimization/)
+
+#### Additional resources
+- 📖 [Numerical Optimization Book - Jorge Nocedal](https://www.amazon.ca/Numerical-Optimization-Jorge-Nocedal/dp/0387303030)
+- 📚 [Awesome Optimization Resources](https://github.com/ebrahimpichka/awesome-optimization)
+
+---
 
 💡 **Next Steps?** Keep learning! 📖 This roadmap continues with ML Foundations, MLOps, and Industrial AI! 🚀
