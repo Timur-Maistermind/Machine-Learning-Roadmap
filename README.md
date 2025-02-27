@@ -169,9 +169,17 @@ Once you’re comfortable with Python, these **practical topics** will help you 
 
 ---
 
+<p align="center">
+  <a href="https://www.timurmlcareer.com/machine-learning-roadmap">
+    <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
+  </a>
+</p>
+
+---
+
 ## 2. Data Science / ML Introduction
 
-## 🙏 Please, support the repo with a STAR ⭐ 
+### 🙏 Please, support the repo with a STAR ⭐ 
 To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so more people can learn ML for free.
 
 ---
@@ -277,7 +285,7 @@ Unsupervised learning helps **discover hidden structures** in data when labels a
 
 ## 3. Data Science / ML Deep Dive
 
-## 🙏 Please, support the repo with a STAR ⭐ 
+### 🙏 Please, support the repo with a STAR ⭐ 
 To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so more people can learn ML for free.
 
 ---
@@ -381,7 +389,7 @@ Anomaly detection is **critical** in industrial AI for detecting equipment failu
 
 ## 4. MLOps for Data Scientists
 
-## 🙏 Please, support the repo with a STAR ⭐ 
+### 🙏 Please, support the repo with a STAR ⭐ 
 To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so more people can learn ML for free.
 
 ---
