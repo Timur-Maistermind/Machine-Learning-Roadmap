@@ -101,7 +101,7 @@ To help people learn ML Foundations for free, please, support this project a Git
 ---
 
 ## 1. Python
-## 🙏 Please, support the repo with a STAR ⭐ 
+### 🙏 Please, support the repo with a STAR ⭐ 
 To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so the roadmap can reach more people for the good.
 ### 1.1 Introduction
 Python is the most widely used programming language in Data Science. It’s powerful, easy to learn, and has a vast ecosystem of libraries for data analysis, visualization, and machine learning.
