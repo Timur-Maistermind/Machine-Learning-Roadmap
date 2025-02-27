@@ -7,7 +7,7 @@ The goal of the roadmap is to provide a list of resources that are enough to bec
 - ✅ By following the roadmap, you'll be ready for middle-level daily data science work.
 - ✅ You'll also be prepared for senior-level data science interviews from the theory perspective.
 
-Most of the resources were personally tested by [me,](https://www.linkedin.com/in/timurbikmukhametov/) when I was learning Machine Learning and Data Science from scratch, when I was upgrading my skills and helped my team members doing so.
+Most of the resources were personally tested by [me,](https://www.linkedin.com/in/timurbikmukhametov/) when I was learning Machine Learning and Data Science from scratch, upgrading my skills or helping my team members doing so.
 
 ![Machine Learning Roadmap](images/Machine_Learning_Roadmap.png)
 
