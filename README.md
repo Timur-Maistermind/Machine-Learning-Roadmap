@@ -15,6 +15,13 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 
 ---
 
+
+# 🎯 Who is this roadmap for?
+- ✅ Data Science beginners who are looking for a practical step-by-step guide.
+- ✅ Data Scientists who aim to level up skills for a job change or promotion.
+- ✅ Data Scientists who are looking to refresh their knowledge and prepare for interviews.
+- ✅ Data Scientists who want to level up skills in a specific domain, e.g. Optimization.
+
 # 📚 Download Machine Learning Roadmap as a PDF.
 The PDF version includes comments on each course, making the roadmap easier to follow and convenient to have on hand.
 
@@ -33,12 +40,6 @@ The PDF version includes comments on each course, making the roadmap easier to f
     <img src="images/Machine_Learning_Roadmap_Subscribe.png" alt="Machine Learning Roadmap Subscribe" width="250">
   </a>
 </p>
-
-# 🎯 Who is this roadmap for?
-- ✅ Data Science beginners who are looking for a practical step-by-step guide.
-- ✅ Data Scientists who aim to level up skills for a job change or promotion.
-- ✅ Data Scientists who are looking to refresh their knowledge and prepare for interviews.
-- ✅ Data Scientists who want to level up skills in a specific domain, e.g. Optimization.
 
 # 🙏 Please, support the repo with a STAR ⭐ 
 To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so the roadmap can reach more people for the good.
