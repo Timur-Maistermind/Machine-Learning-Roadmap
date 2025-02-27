@@ -40,6 +40,9 @@ The PDF version includes comments on each course, making the roadmap easier to f
 - ✅ Data Scientists who are looking to refresh their knowledge and prepare for interviews.
 - ✅ Data Scientists who want to level up skills in a specific domain, e.g. Optimization.
 
+# 🚀 Support Project with a Star 
+To help people learn ML Foundations for free, please, support this project a GitHub star, so the roadmap can reach more people for the good.
+
 # 🚀 Roadmap Table of Contents  
 
 ## 🐍 1. Python  
