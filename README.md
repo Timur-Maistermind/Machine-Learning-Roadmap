@@ -319,7 +319,6 @@ Knowing which features influence your model's predictions is essential for inter
 - 🎥 [Tree-based Feature Importance - Sebastian Raschka](https://www.youtube.com/watch?v=ycyCtxZ0a9w)
 - 📚 [Permutation Feature Importance - Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/feature-importance.html)
 - 🛠️ [SHAP Library Documentation](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)  
-  **SHAP (Shapley Additive Explanations)** is a powerful method to interpret ML models.
 
 #### Model Metrics Evaluation
 You built a model, but how do you **measure its performance**? Understanding metrics is essential for making informed decisions.
@@ -348,17 +347,14 @@ Neural Networks are **one of the most powerful tools** in ML, and they form the 
 ### 3.3 Optimization with Python
 Optimization plays a crucial role in tuning ML models, solving complex problems, and improving performance.
 
-#### Introduction to Mathematical Optimization with Python
-- 📚 [Numerical Optimization - Indrag49](https://indrag49.github.io/Numerical-Optimization/)  
-  **Covers numerical optimization with clear Python examples.**
+#### [Introduction to Mathematical Optimization with Python]
+- 📚 [Numerical Optimization](https://indrag49.github.io/Numerical-Optimization/)  
 
 #### Bayesian Optimization
 Bayesian optimization helps **optimize black-box functions**, often used for **hyperparameter tuning**.
 
 - 🎮 [Bayesian Optimization Playground - Distill.pub](https://distill.pub/2020/bayesian-optimization/)  
-  **Interactive visual explanations!**
 - 📚 [Bayesian Optimization Theory - Nando de Freitas](http://haikufactory.com/files/bayopt.pdf)  
-  **Deep dive into Bayesian optimization techniques.**
 
 #### Optimization with SciPy
 SciPy provides built-in **optimization algorithms** widely used in ML and scientific computing.
