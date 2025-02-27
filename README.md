@@ -29,7 +29,7 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 
 <p align="center">
   <a href="https://themaistermind.substack.com/">
-    <img src="images/Machine_Learning_Roadmap_Subscribe.png" alt="Machine Learning Roadmap Subscribe" width="300">
+    <img src="images/Machine_Learning_Roadmap_Subscribe.png" alt="Machine Learning Roadmap Subscribe" width="100">
   </a>
 </p>
 
