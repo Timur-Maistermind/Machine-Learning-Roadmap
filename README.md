@@ -12,6 +12,13 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 ![Machine Learning Roadmap](images/Machine_Learning_Roadmap.png)
 
 # 📚 Download the Machine Learning Roadmap as a PDF.
+
+<p align="center">
+  <a href="https://themaistermind.substack.com/">
+    <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download">
+  </a>
+</p>
+
 [Press to download Machine Learning Roadmap PDF](https://www.timurmlcareer.com/machine-learning-roadmap)
 
 # ✉️ Subscribe to my newsletter for Advanced ML Content
@@ -30,7 +37,7 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 - ✅ Data Scientists who are looking to refresh their knowledge and prepare for interviews.
 - ✅ Data Scientists who want to level up skills in a specific domain, e.g. Optimization.
 
-# 🚀 Table of Contents  
+# 🚀 Roadmap Table of Contents  
 
 ## 🐍 1. Python  
 - 📖 [1.1 Introduction](#11-introduction)  
