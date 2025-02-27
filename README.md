@@ -379,7 +379,7 @@ Signal processing is **crucial** in industrial ML projects. You need to filter o
 - 🎓 [Signal Processing Course - Mike Cohen (Paid)](https://www.udemy.com/course/signal-processing/?couponCode=2021PM20)
 ##### Mean filter
 - 📖 [Example of how to use](https://ml-gis-service.com/index.php/2022/04/27/data-science-moving-average-or-moving-median-for-data-filtering-time-series/)
-- 📖 [Python implementation](https://pandas.pydata.org/docs/reference/api/pandas.core.window.rolling.Rolling.mean.html)\
+- 📖 [Python implementation](https://pandas.pydata.org/docs/reference/api/pandas.core.window.rolling.Rolling.mean.html)
 
 ##### Median filter
 - 📖 [Example of how to use](https://ml-gis-service.com/index.php/2022/04/27/data-science-moving-average-or-moving-median-for-data-filtering-time-series/)
@@ -391,21 +391,23 @@ Signal processing is **crucial** in industrial ML projects. You need to filter o
 
 ##### Gaussian Filter
 - 📖 [Example of how to use](https://github.com/BryBry93/Gaussian-Smoothing/blob/master/Gaussian%20Smoothing.ipynb)
-- 📖 [Python implementation]([https://www.statsmodels.org/dev/examples/notebooks/generated/exponential_smoothing.html](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.gaussian_filter1d.html))
+- 📖 [Python implementation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.gaussian_filter1d.html)
 
 ##### Fourier transform
-- 📖 [Theory and Practice](  https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/chapter24.00-Fourier-Transforms.html)
+- 📖 [Theory and Practice](https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/chapter24.00-Fourier-Transforms.html)
 
+##### Low and high pass filters
+- 📖 [Tutorial](https://swharden.com/blog/2020-09-23-signal-filtering-in-python/)
   
 ---
 
 ### 3.5 Anomaly Detection
-Anomaly detection is **critical** in industrial AI for detecting equipment failures, process deviations, and system anomalies.
-
 - 📖 [Anomaly Detection Methods Review - ACM](https://dl.acm.org/doi/abs/10.1145/1541880.1541882)
 - 📖 [Anomaly Detection with Python - Neptune AI](https://neptune.ai/blog/anomaly-detection-in-time-series)
 - 📖 [Deep Learning Anomaly Detection](https://arxiv.org/pdf/2211.05244)
 - 🛠️ [Time Series Anomaly Detection Libraries](https://github.com/rob-med/awesome-TS-anomaly-detection)
+- 🛠️ [Selected Article 1](https://towardsdatascience.com/anomaly-detection-in-manufacturing-part-1-an-introduction-8c29f70fc68b/)
+- 🛠️ [Selected Article 2](https://towardsdatascience.com/anomaly-detection-in-manufacturing-part-2-building-a-variational-autoencoder-248abce07349/)
 
 ---
 
