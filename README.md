@@ -74,17 +74,6 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 - 🛠️ [4.4 Model Monitoring](#44-model-monitoring)  
 - 🐳 [4.5 Docker Basics](#45-docker-basics)  
 - 📚 [4.6 Additional Resources](#46-additional-resources)
-- 
-
-## 🏭 5. Industrial AI Topics  
-- 🎛️ [5.1 Signal Processing](#51-signal-processing)  
-- 🔬 [5.2 Data-Driven / Hybrid Process Modeling](#52-data-driven--hybrid-process-modeling)  
-  - 🎥 [Process Dynamics & Control (Video Lectures)](#process-dynamics-and-control-with-video-lectures)  
-  - 📖 [Hybrid Modeling Review](#hybrid-modeling-review)  
-  - 🧠 [Data-Driven Modeling of Dynamical Systems](#data-driven-modeling-of-dynamical-systems)  
-  - 🔬 [Physics-Informed Machine Learning](#physics-informed-machine-learning)  
-- 🕹️ [5.3 Process Control & MPC](#53-process-control-and-mpc)  
-- ⚠️ [5.4 Anomaly Detection](#54-anomaly-detection)  
 
 ---
 
