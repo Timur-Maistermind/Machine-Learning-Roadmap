@@ -229,11 +229,8 @@ Supervised learning is the foundation of ML. Most real-world applications involv
 #### Linear Regression
 - 🎥 [Nando de Freitas UBC, Lecture 1](https://www.youtube.com/watch?v=fd6kQQEbq2Q&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=3)
 - 🎥 [Nando de Freitas UBC, Lecture 2](https://www.youtube.com/watch?v=voN8omBe2r4&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=4)
-  **Breaks down linear regression theory into simple terms.**
 - 📚 [Linear Regression: Closed-form & Gradient Descent](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)  
-  **Python implementation & visualizations.**
-- 📚 [Regularization in Linear Regression](https://www.kirenz.com/blog/posts/2019-08-12-python-lasso-regression-auto/#lasso-regression-in-python)  
-  **Learn Ridge & LASSO regression (important for interviews).**
+- 📚 [Regularization in Linear Regression](https://www.kirenz.com/blog/posts/2019-08-12-python-lasso-regression-auto/#lasso-regression-in-python)
 
 #### Logistic Regression
 - 📚 [MLCourse.ai - Logistic Regression](https://mlcourse.ai/book/topic05/topic05_intro.html)  
