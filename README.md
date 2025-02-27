@@ -19,7 +19,7 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 
 <p align="center">
   <a href="https://www.timurmlcareer.com/machine-learning-roadmap">
-    <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download">
+    <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
   </a>
 </p>
 
@@ -29,7 +29,7 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 
 <p align="center">
   <a href="https://themaistermind.substack.com/">
-    <img src="images/Machine_Learning_Roadmap_Subscribe.png" alt="Machine Learning Roadmap Subscribe" width="100">
+    <img src="images/Machine_Learning_Roadmap_Subscribe.png" alt="Machine Learning Roadmap Subscribe" width="250">
   </a>
 </p>
 
