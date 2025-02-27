@@ -281,6 +281,12 @@ Unsupervised learning helps **discover hidden structures** in data when labels a
 
 ---
 
+<p align="center">
+  <a href="https://www.timurmlcareer.com/machine-learning-roadmap">
+    <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
+  </a>
+</p>
+
 ---
 
 ## 3. Data Science / ML Deep Dive
@@ -387,6 +393,13 @@ Anomaly detection is **critical** in industrial AI for detecting equipment failu
 
 ---
 
+<p align="center">
+  <a href="https://www.timurmlcareer.com/machine-learning-roadmap">
+    <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
+  </a>
+</p>
+
+---
 ## 4. MLOps for Data Scientists
 
 ### 🙏 Please, support the repo with a STAR ⭐ 
@@ -444,3 +457,22 @@ Docker allows you to **containerize** ML models for **consistent deployment acro
 If you want to **go deeper into MLOps**, check out this roadmap. But **be cautious**—MLOps is vast, so focus on the fundamentals first!
 
 - 📚 [MLOps Roadmap 2024 - Marvelous MLOps](https://marvelousmlops.substack.com/p/mlops-roadmap-2024)
+
+---
+  <p align="center">
+  <a href="https://www.timurmlcareer.com/machine-learning-roadmap">
+    <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
+  </a>
+</p>
+
+---
+
+# ✉️ Subscribe to my newsletter for Advanced ML Content
+
+[<img src="images/Machine_Learning_Roadmap_Newsletter.png">](https://themaistermind.substack.com/)
+
+<p align="center">
+  <a href="https://themaistermind.substack.com/">
+    <img src="images/Machine_Learning_Roadmap_Subscribe.png" alt="Machine Learning Roadmap Subscribe" width="250">
+  </a>
+</p>
