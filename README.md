@@ -1,4 +1,4 @@
-# Machine Learning Roadmap 2025
+# Machine Learning Roadmap 2025 (FREE, Step-by-Step)
 
 # 🚀 Goal of the Roadmap
 The goal of the roadmap is to provide a list of resources that are enough to become a **Middle Data Scientist starting from ZERO**.
