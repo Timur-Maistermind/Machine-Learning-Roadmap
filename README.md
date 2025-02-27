@@ -16,6 +16,7 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 ---
 
 # 📚 Download Machine Learning Roadmap as a PDF.
+The PDF version includes comments on each course, making the roadmap easier to follow and convenient to have on hand.
 
 <p align="center">
   <a href="https://www.timurmlcareer.com/machine-learning-roadmap">
