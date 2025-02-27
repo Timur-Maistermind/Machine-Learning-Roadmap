@@ -16,7 +16,10 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 
 [![Subscribe to Newsletter](https://img.shields.io/badge/Subscribe-Newsletter-blue?style=for-the-badge)](https://gist.github.com/cxmeel/b3af232eba0ace022e2fba8b7b286520)
 
+<!--
 <iframe src="https://themaistermind.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+-->
+
 
 
 
