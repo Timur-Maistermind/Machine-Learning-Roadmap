@@ -18,7 +18,11 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 
 [<img src="images/Machine_Learning_Roadmap_Newsletter.png">](https://themaistermind.substack.com/)
 
-[<img src="images/Machine_Learning_Roadmap_Subscribe.png">](https://themaistermind.substack.com/)
+<p align="center">
+  <a href="https://themaistermind.substack.com/">
+    <img src="images/Machine_Learning_Roadmap_Subscribe.png" alt="Machine Learning Roadmap Subscribe">
+  </a>
+</p>
 
 # 🎯 Who is this roadmap for?
 - ✅ Data Science beginners who are looking for a practical step-by-step guide.
