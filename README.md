@@ -266,29 +266,22 @@ Supervised learning is the foundation of ML. Most real-world applications involv
 
 #### k-Nearest Neighbors (k-NN)
 - 📚 [Understanding k-NN](https://mmuratarat.github.io/2019-07-12/k-nn-from-scratch)  
-  **Simple, intuitive distance-based algorithm.**
 
 ---
 
 ### 2.4 Unsupervised Learning
 Unsupervised learning helps **discover hidden structures** in data when labels are **not available.**
 
-💡 **Your goal?** Understand clustering and dimensionality reduction methods.
-
 #### Clustering
 - 📚 [k-Means Clustering](https://mmuratarat.github.io/2019-07-23/kmeans_from_scratch)  
-  **Most common clustering method; learn it well!**
 - 📚 [DBScan Clustering](https://github.com/christianversloot/machine-learning-articles/blob/main/performing-dbscan-clustering-with-python-and-scikit-learn.md)  
-  **Handles noisy datasets better than k-Means.**
 
 #### Dimensionality Reduction
 - 📚 [PCA - Step-by-step Guide](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)  
   **Fundamental technique for reducing data dimensions.**
-- 🎥 [t-SNE Explained](https://distill.pub/2016/misread-tsne/)  
-  **Great for visualizing high-dimensional data.**
+- 🎥 [t-SNE, Resource 1](https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/)
+- 🎥 [t-SNE, Resource 2](https://distill.pub/2016/misread-tsne/)  
 - 📚 [UMAP - Understanding & Applications](https://pair-code.github.io/understanding-umap/)  
-  **Powerful alternative to t-SNE for embeddings.**
-
 ---
 
 <p align="center">
