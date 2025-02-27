@@ -44,7 +44,7 @@ The PDF version includes comments on each course, making the roadmap easier to f
 # 🚀 Roadmap Table of Contents  
 
 ## 🙏 Please, support the repo with a STAR ⭐ 
-To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so more people can learn ML for free.
+To help people learn ML Foundations for free, please, support this project with a GitHub star ⭐, so more people can learn ML for free.
 
 ## 🐍 1. Python  
 - 📖 [1.1 Introduction](#11-introduction)  
@@ -102,7 +102,7 @@ To help people learn ML Foundations for free, please, support this project a Git
 
 ## 1. Python
 ### 🙏 Please, support the repo with a STAR ⭐ 
-To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so more people can learn ML for free.
+To help people learn ML Foundations for free, please, support this project with a GitHub star ⭐, so more people can learn ML for free.
 
 ### 1.1 Introduction
 Python is the most widely used programming language in Data Science. It’s powerful, easy to learn, and has a vast ecosystem of libraries for data analysis, visualization, and machine learning.
@@ -180,7 +180,7 @@ Once you’re comfortable with Python, these **practical topics** will help you 
 ## 2. Data Science / ML Introduction
 
 ### 🙏 Please, support the repo with a STAR ⭐ 
-To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so more people can learn ML for free.
+To help people learn ML Foundations for free, please, support this project with a GitHub star ⭐, so more people can learn ML for free.
 
 ---
 
@@ -292,7 +292,7 @@ Unsupervised learning helps **discover hidden structures** in data when labels a
 ## 3. Data Science / ML Deep Dive
 
 ### 🙏 Please, support the repo with a STAR ⭐ 
-To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so more people can learn ML for free.
+To help people learn ML Foundations for free, please, support this project with a GitHub star ⭐, so more people can learn ML for free.
 
 ---
 
@@ -403,7 +403,7 @@ Anomaly detection is **critical** in industrial AI for detecting equipment failu
 ## 4. MLOps for Data Scientists
 
 ### 🙏 Please, support the repo with a STAR ⭐ 
-To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so more people can learn ML for free.
+To help people learn ML Foundations for free, please, support this project with a GitHub star ⭐, so more people can learn ML for free.
 
 ---
 
