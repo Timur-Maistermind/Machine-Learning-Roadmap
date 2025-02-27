@@ -347,7 +347,7 @@ Neural Networks are **one of the most powerful tools** in ML, and they form the 
 ### 3.3 Optimization with Python
 Optimization plays a crucial role in tuning ML models, solving complex problems, and improving performance.
 
-#### [Introduction to Mathematical Optimization with Python]
+#### Introduction to Mathematical Optimization with Python
 - 📚 [Numerical Optimization](https://indrag49.github.io/Numerical-Optimization/)  
 
 #### Bayesian Optimization
@@ -377,7 +377,24 @@ SciPy provides built-in **optimization algorithms** widely used in ML and scient
 Signal processing is **crucial** in industrial ML projects. You need to filter out noise, remove outliers, and handle **vibration analysis** using **time-frequency domain filters**.
 
 - 🎓 [Signal Processing Course - Mike Cohen (Paid)](https://www.udemy.com/course/signal-processing/?couponCode=2021PM20)
-- 📖 [Fourier Transform & Filters](https://en.wikipedia.org/wiki/Fourier_transform)
+##### Mean filter
+- 📖 [Example of how to use](https://ml-gis-service.com/index.php/2022/04/27/data-science-moving-average-or-moving-median-for-data-filtering-time-series/)
+- 📖 [Python implementation](https://pandas.pydata.org/docs/reference/api/pandas.core.window.rolling.Rolling.mean.html)\
+
+##### Median filter
+- 📖 [Example of how to use](https://ml-gis-service.com/index.php/2022/04/27/data-science-moving-average-or-moving-median-for-data-filtering-time-series/)
+- 📖 [Python implementation](https://pandas.pydata.org/docs/reference/api/pandas.core.window.rolling.Rolling.median.html)
+
+##### Exponential Smoothing
+- 📖 [Example of how to use](https://github.com/sellensr/RWS-Notes/blob/master/Code%20-%20Python/Learning%20Sequence/4.2%20Exponential%20Smoothing.ipynb)
+- 📖 [Python implementation](https://www.statsmodels.org/dev/examples/notebooks/generated/exponential_smoothing.html)
+
+##### Gaussian Filter
+- 📖 [Example of how to use](https://github.com/BryBry93/Gaussian-Smoothing/blob/master/Gaussian%20Smoothing.ipynb)
+- 📖 [Python implementation]([https://www.statsmodels.org/dev/examples/notebooks/generated/exponential_smoothing.html](https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.gaussian_filter1d.html))
+
+##### Fourier transform
+- 📖 [Theory and Practice](  https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/chapter24.00-Fourier-Transforms.html)
 
   
 ---
