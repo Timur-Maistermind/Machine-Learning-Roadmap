@@ -227,11 +227,18 @@ Supervised learning is the foundation of ML. Most real-world applications involv
 💡 **Your goal?** Master these fundamental algorithms before moving to more complex techniques.
 
 #### Linear Regression
+##### Intro theory:
 - 🎥 [Nando de Freitas UBC, Lecture 1](https://www.youtube.com/watch?v=fd6kQQEbq2Q&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=3)
 - 🎥 [Nando de Freitas UBC, Lecture 2](https://www.youtube.com/watch?v=voN8omBe2r4&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=4)
-- 📚 [Python Implementation, Linear Regression Closed-form](https://aunnnn.github.io/ml-tutorial/html/blog_content/linear_regression/linear_regression_tutorial.html)
-- 📚 [Python Implementation, Linear Regression Gradient Descent](https://dmitrijskass.netlify.app/2021/04/03/gradient-descent-with-linear-regression-from-scratch/)  
-- 📚 [Regularization in Linear Regression](https://www.kirenz.com/blog/posts/2019-08-12-python-lasso-regression-auto/#lasso-regression-in-python)
+##### Python Implementation
+- 📚 [Linear Regression Closed-form](https://aunnnn.github.io/ml-tutorial/html/blog_content/linear_regression/linear_regression_tutorial.html)
+- 📚 [Linear Regression Gradient Descent](https://dmitrijskass.netlify.app/2021/04/03/gradient-descent-with-linear-regression-from-scratch/)
+##### Regularization
+- 🎥 [Nando de Freitas UBC, Lecture 1](https://www.youtube.com/watch?v=hrIad1RVFV0&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=5)
+- 🎥 [Nando de Freitas UBC, Lecture 2](https://www.youtube.com/watch?v=PvuN23m7hhY&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=6)
+- 📊 [Visual explanation with code 1](https://aunnnn.github.io/ml-tutorial/html/blog_content/linear_regression/linear_regression_regularized.html#sphx-glr-download-blog-content-linear-regression-linear-regression-regularized-py)
+- 📊 [Visual explanation with code 2](https://mmuratarat.github.io/2019-09-01/regularized-linear-models)
+- 📚 [Sklearn tutorial with Lasso model](https://www.kirenz.com/blog/posts/2019-08-12-python-lasso-regression-auto/#lasso-regression-in-python)
 
 #### Logistic Regression
 - 📚 [MLCourse.ai - Logistic Regression](https://mlcourse.ai/book/topic05/topic05_intro.html)  
