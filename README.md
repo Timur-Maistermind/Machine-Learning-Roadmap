@@ -1,5 +1,4 @@
 # Machine Learning Roadmap 2025
-![Machine Learning Roadmap](images/Machine_Learning_Roadmap.png)
 
 # 🚀 Goal of the Roadmap
 The goal of the roadmap is to provide a list of resources that are enough to become a **Middle Data Scientist starting from ZERO**.
@@ -10,15 +9,17 @@ The goal of the roadmap is to provide a list of resources that are enough to bec
 
 Most of the resources were personally tested by [me,](https://www.linkedin.com/in/timurbikmukhametov/) when I was learning Machine Learning and Data Science from scratched, when I was upgrading my skills and helped my team members doing so.
 
+![Machine Learning Roadmap](images/Machine_Learning_Roadmap.png)
+
+# 📚 Download this Machine Learning Roadmap as a PDF file.
+[The roadmap can be downloaded as a PDF file here.](https://www.timurmlcareer.com/machine-learning-roadmap)
+
+
 # 🎯 Who is this roadmap for?
 - ✅ Data Science beginners who are looking for a practical step-by-step guide.
 - ✅ Data Scientists who aim to level up skills for a job change or promotion.
 - ✅ Data Scientists who are looking to refresh their knowledge and prepare for interviews.
 - ✅ Data Scientists who want to level up skills in a specific domain, e.g. Optimization.
-  
-# 📚 Download this Machine Learning Roadmap as a PDF file.
-[The roadmap can be downloaded as a PDF file here.](https://www.timurmlcareer.com/machine-learning-roadmap)
-
 
 # 🚀 Table of Contents  
 
