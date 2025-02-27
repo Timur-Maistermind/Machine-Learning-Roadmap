@@ -8,18 +8,16 @@ The goal of the roadmap is to provide a list of resources that are enough to bec
 - ✅ You'll also be prepared for senior-level data science interviews from the theory perspective.
 
 Most of the resources were personally tested by [me,](https://www.linkedin.com/in/timurbikmukhametov/) when I was learning Machine Learning and Data Science from scratch, upgrading my skills or helping my team members doing so.
-
+### Machine Learning Roadmap
 ![Machine Learning Roadmap](images/Machine_Learning_Roadmap.png)
 
 # 📚 Download the Machine Learning Roadmap as a PDF.
 
 <p align="center">
-  <a href="https://themaistermind.substack.com/">
+  <a href="https://www.timurmlcareer.com/machine-learning-roadmap">
     <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download">
   </a>
 </p>
-
-[Press to download Machine Learning Roadmap PDF](https://www.timurmlcareer.com/machine-learning-roadmap)
 
 # ✉️ Subscribe to my newsletter for Advanced ML Content
 
