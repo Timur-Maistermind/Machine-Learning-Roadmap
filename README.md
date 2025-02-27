@@ -14,6 +14,9 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 # 📚 Download the Machine Learning Roadmap as a PDF.
 [Press to download Machine Learning Roadmap PDF](https://www.timurmlcareer.com/machine-learning-roadmap)
 
+[![Subscribe to Newsletter](https://img.shields.io/badge/Subscribe-Newsletter-blue?style=for-the-badge)](https://gist.github.com/cxmeel/b3af232eba0ace022e2fba8b7b286520)
+
+
 
 # 🎯 Who is this roadmap for?
 - ✅ Data Science beginners who are looking for a practical step-by-step guide.
