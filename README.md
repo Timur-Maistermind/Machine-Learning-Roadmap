@@ -173,7 +173,9 @@ Once you’re comfortable with Python, these **practical topics** will help you 
 ## 🙏 Please, support the repo with a STAR ⭐ 
 To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so the roadmap can reach more people for the good.
 
-Now we are getting to the "most interesting" part. 
+---
+
+Now we are getting to the "most interesting" part.
 
 A solid understanding of **the basics** is crucial to being a great Data Scientist. This doesn’t mean you have to be a math genius, but **understanding core principles** will help both in your work and in interviews.
 
@@ -377,6 +379,10 @@ Anomaly detection is **critical** in industrial AI for detecting equipment failu
 ---
 
 ## 4. MLOps for Data Scientists
+
+## 🙏 Please, support the repo with a STAR ⭐ 
+To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so the roadmap can reach more people for the good.
+---
 
 MLOps (Machine Learning Operations) is **essential** for deploying, managing, and scaling ML models in production. Many Data Scientists debate whether they need MLOps skills, but having a **solid understanding** will make you a stronger professional who can build and deploy end-to-end solutions.
 
