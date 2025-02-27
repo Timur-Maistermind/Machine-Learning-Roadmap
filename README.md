@@ -227,7 +227,7 @@ Supervised learning is the foundation of ML. Most real-world applications involv
 💡 **Your goal?** Master these fundamental algorithms before moving to more complex techniques.
 
 #### Linear Regression
-- 🎥 [Nando de Freitas UBC, Lecture 1] (https://www.youtube.com/watch?v=fd6kQQEbq2Q&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=3)
+- 🎥 [Nando de Freitas UBC, Lecture 1](https://www.youtube.com/watch?v=fd6kQQEbq2Q&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=3)
 - 🎥 [Nando de Freitas UBC, Lecture 2](https://www.youtube.com/watch?v=voN8omBe2r4&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=4)
   **Breaks down linear regression theory into simple terms.**
 - 📚 [Linear Regression: Closed-form & Gradient Descent](https://sebastianraschka.com/Articles/2014_pca_step_by_step.html)  
