@@ -170,6 +170,9 @@ Once you’re comfortable with Python, these **practical topics** will help you 
 
 ## 2. Data Science / ML Introduction
 
+## 🙏 Please, support the repo with a STAR ⭐ 
+To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so the roadmap can reach more people for the good.
+
 Now we are getting to the "most interesting" part. 
 
 A solid understanding of **the basics** is crucial to being a great Data Scientist. This doesn’t mean you have to be a math genius, but **understanding core principles** will help both in your work and in interviews.
@@ -270,6 +273,11 @@ Unsupervised learning helps **discover hidden structures** in data when labels a
 ---
 
 ## 3. Data Science / ML Deep Dive
+
+## 🙏 Please, support the repo with a STAR ⭐ 
+To help people learn ML Foundations for free, please, support this project a GitHub star ⭐, so the roadmap can reach more people for the good.
+
+---
 
 This section is where you refine your skills, learn about advanced techniques, and dive into critical ML concepts that help improve model performance and interpretability. Mastering these topics will significantly enhance your ability to build, deploy, and optimize ML models.
 
