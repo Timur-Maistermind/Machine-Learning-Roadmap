@@ -242,9 +242,7 @@ Supervised learning is the foundation of ML. Most real-world applications involv
 
 #### Logistic Regression
 - 📚 [MLCourse.ai - Logistic Regression](https://mlcourse.ai/book/topic05/topic05_intro.html)  
-  **Great structured learning path for logistic regression.**
 - 🔎 [Odds Ratio & Weights Interpretation](https://mmuratarat.github.io/2019-09-05/odds-ratio-logistic-regression)  
-  **Key topic for understanding model interpretability.**
 
 #### Gradient Boosting
 ##### Introduction
