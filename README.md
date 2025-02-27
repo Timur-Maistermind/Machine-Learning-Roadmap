@@ -247,18 +247,22 @@ Supervised learning is the foundation of ML. Most real-world applications involv
   **Key topic for understanding model interpretability.**
 
 #### Gradient Boosting
+##### Introduction
 - 📚 [MLCourse.ai - Gradient Boosting](https://mlcourse.ai/book/topic10/topic10_gradient_boosting.html)  
-  **The best guide to gradient boosting models.**
-- 📚 [XGBoost Paper](https://arxiv.org/pdf/1603.02754.pdf)  
-  **Fundamental research paper for advanced understanding.**
-- 🎥 [Gradient Boosting Interactive Playground](https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)  
-  **Awesome visual explanations!**
+##### Gradient Boosting, deeper dive
+- 📚 [XGBoost Paper](https://arxiv.org/pdf/1603.02754.pdf)
+- 📚 [Tutorial by Alexey Natekin](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2013.00021/full)  
+##### Demo playground
+- 🎥 [Gradient Boosting Interactive Playground 1](https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
+- 🎥 [Gradient Boosting Interactive Playground 2](https://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)  
 
 #### Random Forest
-- 🎥 [Nando de Freitas UBC Lectures](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cM)  
-  **Great overview of bagging and random forests.**
-- 📚 [MLCourse.ai - Bagging & Random Forest](https://mlcourse.ai/book/topic05/topic05_intro.html)  
-  **Comparison between Random Forest & Gradient Boosting.**
+##### Intro lectures
+- 🎥 [Nando de Freitas UBC, Lecture 1](https://www.youtube.com/watch?v=-dCtJjlEEgM&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=12)
+- 🎥 [Nando de Freitas UBC, Lecture 2](https://www.youtube.com/watch?v=3kYujfDgmNk&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=13)
+- 🎥 [Nando de Freitas UBC, Lecture 3](https://www.youtube.com/watch?v=zFGPjRPwyFw&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&index=14)  
+#####  Bagging and Random Forest, Deeper Dive
+- 📚 [MLCourse.ai - Bagging & Random Forest](https://mlcourse.ai/book/topic05/topic05_intro.html)
 
 #### k-Nearest Neighbors (k-NN)
 - 📚 [Understanding k-NN](https://mmuratarat.github.io/2019-07-12/k-nn-from-scratch)  
