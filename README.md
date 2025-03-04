@@ -41,7 +41,7 @@ The PDF version includes comments on each course, making the roadmap easier to f
   </a>
 </p>
 
-# 📚 Read Medium Interatice Article on the Roadmap
+# 📚 Read Medium Interactive Article on the Roadmap
 [Medium ML Roadmap Article](https://medium.com/@timur.bikmukhametov/machine-learning-roadmap-from-zero-to-advanced-3b0fc9bb5959)
 
 # 🚀 Roadmap Table of Contents  
@@ -496,5 +496,5 @@ If you want to **go deeper into MLOps**, check out this roadmap. But **be cautio
   </a>
 </p>
 
-# 📚 Read Medium Interatice Article on the Roadmap
+# 📚 Read Medium Interactive Article on the Roadmap
 [Medium ML Roadmap Article](https://medium.com/@timur.bikmukhametov/machine-learning-roadmap-from-zero-to-advanced-3b0fc9bb5959)
