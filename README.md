@@ -26,7 +26,7 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 The PDF version includes comments on each course, making the roadmap easier to follow and convenient to have on hand.
 
 <p align="center">
-  <a href="https://https://www.maistermind.ai/machine-learning-roadmap">
+  <a href="https://www.maistermind.ai/machine-learning-roadmap">
     <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
   </a>
 </p>
