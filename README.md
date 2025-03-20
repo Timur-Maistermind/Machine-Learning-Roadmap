@@ -33,7 +33,7 @@ The PDF version includes comments on each course, making the roadmap easier to f
 
 # ✉️ Subscribe to my newsletter for Advanced ML Content
 
-[<img src="images/Machine_Learning_Roadmap_Newsletter.png">](https://www.maistermind.ai/machine-learning-roadmap)
+[<img src="images/Machine_Learning_Roadmap_Newsletter.png">](https://www.maistermind.ai/join)
 
 <p align="center">
   <a href="https://www.maistermind.ai/machine-learning-roadmap">
@@ -488,7 +488,7 @@ If you want to **go deeper into MLOps**, check out this roadmap. But **be cautio
 
 # ✉️ Subscribe to my newsletter for Advanced ML Content
 
-[<img src="images/Machine_Learning_Roadmap_Newsletter.png">](https://www.maistermind.ai/machine-learning-roadmap)
+[<img src="images/Machine_Learning_Roadmap_Newsletter.png">](https://www.maistermind.ai/join)
 
 <p align="center">
   <a href="https://www.maistermind.ai/machine-learning-roadmap">
