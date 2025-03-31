@@ -491,7 +491,7 @@ If you want to **go deeper into MLOps**, check out this roadmap. But **be cautio
 [<img src="images/Machine_Learning_Roadmap_Newsletter.png">](https://www.maistermind.ai/join)
 
 <p align="center">
-  <a href="https://www.maistermind.ai/machine-learning-roadmap">
+  <a href="https://www.maistermind.ai/join">
     <img src="images/Machine_Learning_Roadmap_Subscribe.png" alt="Machine Learning Roadmap Subscribe" width="250">
   </a>
 </p>
