@@ -36,7 +36,7 @@ The PDF version includes comments on each course, making the roadmap easier to f
 [<img src="images/Machine_Learning_Roadmap_Newsletter.png">](https://www.maistermind.ai/join)
 
 <p align="center">
-  <a href="https://www.maistermind.ai/machine-learning-roadmap">
+  <a href="https://www.maistermind.ai/join">
     <img src="images/Machine_Learning_Roadmap_Subscribe.png" alt="Machine Learning Roadmap Subscribe" width="250">
   </a>
 </p>
