@@ -26,17 +26,17 @@ Most of the resources were personally tested by [me,](https://www.linkedin.com/i
 The PDF version includes comments on each course, making the roadmap easier to follow and convenient to have on hand.
 
 <p align="center">
-  <a href="https://www.maistermind.ai/machine-learning-roadmap">
+  <a href="https://www.mlacademy.ai/machine-learning-roadmap">
     <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
   </a>
 </p>
 
 # ✉️ Subscribe to my newsletter for Advanced ML Content
 
-[<img src="images/Machine_Learning_Roadmap_Newsletter.png">](https://www.maistermind.ai/join)
+[<img src="images/Machine_Learning_Roadmap_Newsletter.png">](https://www.mlacademy.ai/join)
 
 <p align="center">
-  <a href="https://www.maistermind.ai/join">
+  <a href="https://www.mlacademy.ai/join">
     <img src="images/Machine_Learning_Roadmap_Subscribe.png" alt="Machine Learning Roadmap Subscribe" width="250">
   </a>
 </p>
@@ -173,7 +173,7 @@ Once you’re comfortable with Python, these **practical topics** will help you 
 ---
 
 <p align="center">
-  <a href="https://www.maistermind.ai/machine-learning-roadmap">
+  <a href="https://www.mlacademy.ai/machine-learning-roadmap">
     <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
   </a>
 </p>
@@ -286,7 +286,7 @@ Unsupervised learning helps **discover hidden structures** in data when labels a
 ---
 
 <p align="center">
-  <a href="https://www.maistermind.ai/machine-learning-roadmap">
+  <a href="https://www.mlacademy.ai/machine-learning-roadmap">
     <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
   </a>
 </p>
@@ -413,7 +413,7 @@ Signal processing is **crucial** in industrial ML projects. You need to filter o
 ---
 
 <p align="center">
-  <a href="https://www.maistermind.ai/machine-learning-roadmap">
+  <a href="https://www.mlacademy.ai/machine-learning-roadmap">
     <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
   </a>
 </p>
@@ -479,7 +479,7 @@ If you want to **go deeper into MLOps**, check out this roadmap. But **be cautio
 
 ---
   <p align="center">
-  <a href="https://www.maistermind.ai/machine-learning-roadmap">
+  <a href="https://www.mlacademy.ai/machine-learning-roadmap">
     <img src="images/Download_Roadmap_PDF.png" alt="Machine Learning Roadmap Download" width="250">
   </a>
 </p>
@@ -488,10 +488,10 @@ If you want to **go deeper into MLOps**, check out this roadmap. But **be cautio
 
 # ✉️ Subscribe to my newsletter for Advanced ML Content
 
-[<img src="images/Machine_Learning_Roadmap_Newsletter.png">](https://www.maistermind.ai/join)
+[<img src="images/Machine_Learning_Roadmap_Newsletter.png">](https://www.mlacademy.ai/join)
 
 <p align="center">
-  <a href="https://www.maistermind.ai/join">
+  <a href="https://www.mlacademy.ai/join">
     <img src="images/Machine_Learning_Roadmap_Subscribe.png" alt="Machine Learning Roadmap Subscribe" width="250">
   </a>
 </p>
